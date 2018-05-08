@@ -11,7 +11,7 @@
 </Schema>
 <Folder><name>Grid_1x1</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>00000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Grid_1x1">
 		<SimpleData name="fid">1</SimpleData>
 		<SimpleData name="left">77.4612808088623</SimpleData>
