@@ -1,6 +1,94 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document id="root_doc">
+	 <Style id="line-FF0000-1000-normal">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>1</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FF0000-1000-highlight">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>1.5</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FF0000-1000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF0000-1000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF0000-1000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-FF0000-1000-0-normal">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>000000ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-FF0000-1000-0-highlight">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>1.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>000000ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-FF0000-1000-0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-FF0000-1000-0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-FF0000-1000-0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-FF0000-1201-0-normal">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>1.201</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>000000ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-FF0000-1201-0-highlight">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>1.8015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>000000ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-FF0000-1201-0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-FF0000-1201-0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-FF0000-1201-0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+	
+	
 <Schema name="Grid_1x1" id="Grid_1x1">
 	<SimpleField name="fid" type="float"></SimpleField>
 	<SimpleField name="left" type="float"></SimpleField>
