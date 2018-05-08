@@ -140,6 +140,19 @@
           <coordinates>-122.084075,37.4220033612141,50</coordinates>
         </Point>
       </Placemark>
+        <Placemark>
+           <name>Newly placemark</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Grid_1x1">
+		<SimpleData name="fid">7</SimpleData>
+		<SimpleData name="left">77.4612808088623</SimpleData>
+		<SimpleData name="top">13.0881642716638</SimpleData>
+		<SimpleData name="right">77.4702808088623</SimpleData>
+		<SimpleData name="bottom">13.0791642716638</SimpleData>
+		<SimpleData name="id">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>77.4612808088623,13.0881642716638 77.4702808088623,13.0881642716638 77.4702808088623,13.0791642716638 77.4612808088623,13.0791642716638 77.4612808088623,13.0881642716638</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
       <Placemark>
         <name>Extruded placemark</name>
         <visibility>0</visibility>
