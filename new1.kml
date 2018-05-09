@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Highlighted Icon</name>
+<description>Place your mouse over the icon to see it display the new
+      icon</description>
+<StyleMap id="exampleStyleMap">
+  <Pair>
+    <key>normal</key>
+    <!-- you could also use a <styleUrl> here instead of inlining -->
+    <Style>
+      <PolyStyle>
+        <color>7dff0000</color>
+      </PolyStyle>
+    </Style>
+  </Pair>
+  <Pair>
+    <key>highlight</key>
+    <!-- you could also use a <styleUrl> here instead of inlining -->
+    <Style>
+      <PolyStyle>
+        <color>7dffffff</color>
+      </PolyStyle>
+    </Style>
+  </Pair>
+</StyleMap>
+
+<!-- and now, a Placemark that uses the StyleMap -->
+<Placemark>
+  <name>Roll over this polygon</name>
+  <description>this will show up when clicked</description>
+  <visibility>1</visibility>
+  <styleUrl>#exampleStyleMap</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <altitudeMode>absolute</altitudeMode>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          -112.3372510731295,36.14888505105317,1784
+          -112.3356128688403,36.14781540589019,1784
+          -112.3368169371048,36.14658677734382,1784
+          -112.3384408457543,36.14762778914076,1784
+          -112.3372510731295,36.14888505105317,1784
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+</Document>
+</kml>
