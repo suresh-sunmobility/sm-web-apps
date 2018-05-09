@@ -11,6 +11,9 @@
 </Schema>
 <Folder><name>Grid_1x1</name>
   <Placemark>
+	  <name>Floating placemark</name>
+	   <description>Tethered to the ground by a customizable
+          &quot;tail&quot;</description>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Grid_1x1">
 		<SimpleData name="fid">1</SimpleData>
