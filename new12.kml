@@ -38,6 +38,10 @@
   <visibility>1</visibility>
   <styleUrl>#exampleStyleMap</styleUrl>
   <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Polygon><tessellate>1</tessellate>
-    <altitudeMode>absolute</altitudeMode><outerBoundaryIs><LinearRing><coordinates>77.4612808088623,13.1421642716638 77.4702808088623,13.1421642716638 77.4702808088623,13.1331642716638 77.4612808088623,13.1331642716638 77.4612808088623,13.1421642716638</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    <altitudeMode>absolute</altitudeMode><outerBoundaryIs><LinearRing><coordinates>77.4612808088623,13.1421642716638,1784
+    77.4702808088623,13.1421642716638,1784
+    77.4702808088623,13.1331642716638,1784
+    77.4612808088623,13.1331642716638,1784
+    77.4612808088623,13.1421642716638,1784</coordinates></LinearRing></outerBoundaryIs></Polygon>
   </Placemark>
 </Document></kml>
