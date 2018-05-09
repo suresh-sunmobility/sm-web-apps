@@ -7,7 +7,7 @@
 <StyleMap id="exampleStyleMap">
   <Pair>
     <key>normal</key>
-    <!-- you could also use a <styleUrl> here instead of inlining -->
+   
     <Style>
       <PolyStyle>
         <color>7dff0000</color>
@@ -16,7 +16,7 @@
   </Pair>
   <Pair>
     <key>highlight</key>
-    <!-- you could also use a <styleUrl> here instead of inlining -->
+  
     <Style>
       <PolyStyle>
         <color>7dffffff</color>
