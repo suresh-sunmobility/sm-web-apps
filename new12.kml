@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Highlighted Icon</name>
+<description>Place your mouse over the icon to see it display the new
+      icon</description>
+<StyleMap id="exampleStyleMap">
+  <Pair>
+    <key>normal</key>
+    <!-- you could also use a <styleUrl> here instead of inlining -->
+    <Style>
+      <PolyStyle>
+        <color>7dff0000</color>
+      </PolyStyle>
+    </Style>
+  </Pair>
+  <Pair>
+    <key>highlight</key>
+    <!-- you could also use a <styleUrl> here instead of inlining -->
+    <Style>
+      <PolyStyle>
+        <color>7dffffff</color>
+      </PolyStyle>
+    </Style>
+  </Pair>
+</StyleMap>
+<!-- <Schema name="Grid_1x1" id="Grid_1x1">
+  <SimpleField name="fid" type="float"></SimpleField>
+  <SimpleField name="left" type="float"></SimpleField>
+  <SimpleField name="top" type="float"></SimpleField>
+  <SimpleField name="right" type="float"></SimpleField>
+  <SimpleField name="bottom" type="float"></SimpleField>
+  <SimpleField name="id" type="int"></SimpleField>
+</Schema> -->
+  <Placemark>
+  <name>Roll over this polygon</name>
+  <description>this will show up when clicked</description>
+  <visibility>1</visibility>
+  <styleUrl>#exampleStyleMap</styleUrl>
+  <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+  <ExtendedData><SchemaData schemaUrl="#Grid_1x1">
+    <SimpleData name="fid">1</SimpleData>
+    <SimpleData name="left">77.4612808088623</SimpleData>
+    <SimpleData name="top">13.1421642716638</SimpleData>
+    <SimpleData name="right">77.4702808088623</SimpleData>
+    <SimpleData name="bottom">13.1331642716638</SimpleData>
+    <SimpleData name="id">1</SimpleData>
+  </SchemaData></ExtendedData>
+      <Polygon><tessellate>1</tessellate>
+    <altitudeMode>absolute</altitudeMode><outerBoundaryIs><LinearRing><coordinates>77.4612808088623,13.1421642716638 77.4702808088623,13.1421642716638 77.4702808088623,13.1331642716638 77.4612808088623,13.1331642716638 77.4612808088623,13.1421642716638</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Document></kml>
