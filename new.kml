@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
-<name>Highlighted Icon</name>
+<!-- <name>Highlighted Icon</name>
 <description>Place your mouse over the icon to see it display the new
       icon</description>
 <StyleMap id="exampleStyleMap">
@@ -23,14 +23,14 @@
       </PolyStyle>
     </Style>
   </Pair>
-</StyleMap>
+</StyleMap> -->
 
 <!-- and now, a Placemark that uses the StyleMap -->
 <Placemark>
   <name>Roll over this polygon</name>
   <description>this will show up when clicked</description>
   <visibility>0</visibility>
-  <styleUrl>#exampleStyleMap</styleUrl>
+  <!-- <styleUrl>#exampleStyleMap</styleUrl> -->
   <Polygon>
    <!--  <tessellate>1</tessellate> -->
     <!-- <altitudeMode>absolute</altitudeMode> -->
