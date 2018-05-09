@@ -29,11 +29,11 @@
 <Placemark>
   <name>Roll over this polygon</name>
   <description>this will show up when clicked</description>
-  <visibility>1</visibility>
+  <visibility>0</visibility>
   <styleUrl>#exampleStyleMap</styleUrl>
   <Polygon>
    <!--  <tessellate>1</tessellate> -->
-    <altitudeMode>absolute</altitudeMode>
+    <!-- <altitudeMode>absolute</altitudeMode> -->
     <outerBoundaryIs>
       <LinearRing>
         <coordinates>
