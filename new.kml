@@ -32,15 +32,15 @@
   <visibility>1</visibility>
   <styleUrl>#exampleStyleMap</styleUrl>
   <Polygon>
-    <tessellate>1</tessellate>
+   <!--  <tessellate>1</tessellate> -->
     <altitudeMode>absolute</altitudeMode>
     <outerBoundaryIs>
       <LinearRing>
         <coordinates>
-          77.4612808088623,13.1421642716638,1784
-    77.4702808088623,13.1421642716638,1784
-    77.4702808088623,13.1331642716638,1784
-    77.4612808088623,13.1331642716638,1784
+          77.4612808088623,13.1421642716638
+          77.4702808088623,13.1421642716638
+          77.4702808088623,13.1331642716638
+          77.4612808088623,13.1331642716638
         </coordinates>
       </LinearRing>
     </outerBoundaryIs>
