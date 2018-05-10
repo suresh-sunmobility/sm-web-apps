@@ -33,6 +33,8 @@
 </Schema>
 <Folder><name>BBMP_Ward_Map</name>
   <Placemark>
+  	 <name>My office</name>
+    <description>This is the location of my office.</description>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><colorMode>no</colorMode><fill>0</fill><outline>0</outline></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#BBMP_Ward_Map">
 		<SimpleData name="OBJECTID_1">1</SimpleData>
