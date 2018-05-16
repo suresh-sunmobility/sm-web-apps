@@ -14,7 +14,7 @@
 	  <name>Floating placemark</name>
 	   <description>Tethered to the ground by a customizable
           &quot;tail&quot;</description>
-	<Style><LineStyle><color>ff0000ff</color><width>3</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ffff0000</color><width>0.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Grid_1x1">
 		<SimpleData name="fid">1</SimpleData>
 		<SimpleData name="left">77.4612808088623</SimpleData>
@@ -26,7 +26,7 @@
       <Polygon><outerBoundaryIs><LinearRing><coordinates>77.4612808088623,13.1421642716638 77.4702808088623,13.1421642716638 77.4702808088623,13.1331642716638 77.4612808088623,13.1331642716638 77.4612808088623,13.1421642716638</coordinates></LinearRing></outerBoundaryIs></Polygon>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	  <Style><LineStyle><color>ffff0000</color><width>0.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Grid_1x1">
 		<SimpleData name="fid">2</SimpleData>
 		<SimpleData name="left">77.4612808088623</SimpleData>
