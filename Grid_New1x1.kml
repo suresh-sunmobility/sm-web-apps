@@ -14,7 +14,7 @@
 	  <name>Floating placemark</name>
 	   <description>Tethered to the ground by a customizable
           &quot;tail&quot;</description>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color><width>3</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Grid_1x1">
 		<SimpleData name="fid">1</SimpleData>
 		<SimpleData name="left">77.4612808088623</SimpleData>
