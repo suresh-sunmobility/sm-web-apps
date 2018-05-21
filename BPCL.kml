@@ -1,0 +1,1384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>BPCL.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>BPCL</name>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Pethi service station (BPCL) - Petrol Pump
+Govindaraja Nagar Ward, Stage 1, Vijaya Nagar
+Bengaluru, Karnataka 560040</description>
+			<LookAt>
+				<longitude>77.54801999999999</longitude>
+				<latitude>12.9749718</latitude>
+				<altitude>0</altitude>
+				<heading>3.975693351829396e-015</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000622</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.54801999999999,12.9749718,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>BP Petrol Pump - Petrol Pump
+22, Mahatma Gandhi Road
+Craig Park Layout, Ashok Nagar
+Craig Park Layout, Ashok Nagar
+Bengaluru, Karnataka 560001
+</description>
+			<LookAt>
+				<longitude>77.61391149694937</longitude>
+				<latitude>12.97353086816833</latitude>
+				<altitude>0</altitude>
+				<heading>-9.242520949518851e-010</heading>
+				<tilt>0</tilt>
+				<range>1008.598290991324</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.61391149694937,12.97353086816833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharat Petroleum Fuel Station - Petrol Pump
+Rajkumar Layout, Kalkere
+Bengaluru, Karnataka 560016
+</description>
+			<LookAt>
+				<longitude>77.66967365932452</longitude>
+				<latitude>13.0312565853999</latitude>
+				<altitude>0</altitude>
+				<heading>-2.263755818838306e-010</heading>
+				<tilt>0</tilt>
+				<range>1006.120640627786</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.66967365932452,13.0312565853999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharat Petroleum - Petrol Pump
+Green Park Layout, Banswadi
+Bengaluru, Karnataka 560043</description>
+			<LookAt>
+				<longitude>77.66151046190468</longitude>
+				<latitude>13.01326761815378</latitude>
+				<altitude>0</altitude>
+				<heading>-9.446676778828639e-010</heading>
+				<tilt>0</tilt>
+				<range>1010.336339308448</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.66151046190468,13.01326761815378,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharat Petroleum - Petrol Pump
+4, 7th Main Rd
+HRBR Layout 1st Block, Subbaiahnapalya, Banswadi
+Bengaluru, Karnataka 560043
+</description>
+			<LookAt>
+				<longitude>77.64272159670918</longitude>
+				<latitude>13.01280193424505</latitude>
+				<altitude>0</altitude>
+				<heading>-6.262130501239888e-009</heading>
+				<tilt>0</tilt>
+				<range>1027.771474671354</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.64272159670918,13.01280193424505,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharat Petroleum - Petrol Pump
+Sarjapur Main Rd
+Swami Vivekanandanagar, Sulikunte
+Bengaluru, Karnataka 560099</description>
+			<LookAt>
+				<longitude>77.7359791363205</longitude>
+				<latitude>12.88745113979584</latitude>
+				<altitude>0</altitude>
+				<heading>5.638883318356364e-009</heading>
+				<tilt>0</tilt>
+				<range>1070.694889936017</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.73597913632048,12.88745113979584,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharat Petroleum Arunodhaya Filling station - Petrol Pump
+111, Outer Ring Rd
+Umarbagh Layout, Banashankari Temple Ward
+Bengaluru, Karnataka 560078</description>
+			<LookAt>
+				<longitude>77.57126671865819</longitude>
+				<latitude>12.90797282737854</latitude>
+				<altitude>0</altitude>
+				<heading>-1.749503859472526e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.813364185099</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.57126671865819,12.90797282737854,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharat Petroleum - Petrol Pump
+Outer Ring Rd
+Jyothi Puram, Dooravani Nagar
+Bengaluru, Karnataka 560016</description>
+			<LookAt>
+				<longitude>77.67063159887371</longitude>
+				<latitude>12.99792899736123</latitude>
+				<altitude>0</altitude>
+				<heading>-3.384044979706211e-009</heading>
+				<tilt>0</tilt>
+				<range>1018.488206767066</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.6706315988737,12.99792899736123,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>SFS - Bharat Petroleum Corporation Limited Petrol Bunk - Petroleum Products Company
+NH 207
+Dommasandra
+Bengaluru, Karnataka 562125</description>
+			<LookAt>
+				<longitude>77.75283000061921</longitude>
+				<latitude>12.88285289587251</latitude>
+				<altitude>0</altitude>
+				<heading>1.934643947480517e-010</heading>
+				<tilt>0</tilt>
+				<range>1004.694945481887</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.75283000061921,12.88285289587251,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharat Petroleum - Petrol Pump
+Whitefield Main Rd
+Thigalarapalya, Whitefield
+Bengaluru, Karnataka 560067
+</description>
+			<LookAt>
+				<longitude>77.72177520000003</longitude>
+				<latitude>12.9912159</latitude>
+				<altitude>0</altitude>
+				<heading>1.987846675914697e-014</heading>
+				<tilt>0</tilt>
+				<range>999.9999999998515</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.72177520000003,12.9912159,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharath Petroleum - Petrol Pump
+Virgonagar Industrial Estate, Medahalli
+Bengaluru, Karnataka 560049
+</description>
+			<LookAt>
+				<longitude>77.72141678056185</longitude>
+				<latitude>13.0261925324983</latitude>
+				<altitude>0</altitude>
+				<heading>1.034125549131048e-010</heading>
+				<tilt>0</tilt>
+				<range>1003.818363219491</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.72141678056185,13.0261925324983,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharat Petroleum - Petrol Pump
+280/1, Hennur Bagalur Rd
+Rammana Layout, Narayanapura
+Bengaluru, Karnataka 560077</description>
+			<LookAt>
+				<longitude>77.64897560000003</longitude>
+				<latitude>13.0593197</latitude>
+				<altitude>0</altitude>
+				<heading>7.95138670365879e-015</heading>
+				<tilt>0</tilt>
+				<range>1000.000000002188</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.64897560000001,13.0593197,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharat Petroleum - Petrol Pump
+134, HAL Old Airport Rd
+HAL 2nd Stage, Kodihalli
+Bengaluru, Karnataka 560017</description>
+			<LookAt>
+				<longitude>77.64954640039206</longitude>
+				<latitude>12.95990066638245</latitude>
+				<altitude>0</altitude>
+				<heading>-3.32498247684077e-009</heading>
+				<tilt>0</tilt>
+				<range>1018.349671344186</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.64954640039206,12.95990066638245,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharat Petroleum - Petrol Pump
+300, Thanisandra Main Rd
+Ashwath Nagar, Sinthan Nagar
+P&amp;T Layout, Sinthan Nagar
+Bengaluru, Karnataka 560045</description>
+			<LookAt>
+				<longitude>77.63253500000002</longitude>
+				<latitude>13.0560912</latitude>
+				<altitude>0</altitude>
+				<heading>1.152951072030525e-014</heading>
+				<tilt>0</tilt>
+				<range>1000.000000002365</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.63253500000002,13.0560912,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharat Petroleum - Petrol Pump
+Kasturba Rd
+Shanthala Nagar, Ashok Nagar
+Bengaluru, Karnataka 560001
+</description>
+			<LookAt>
+				<longitude>77.59857519583309</longitude>
+				<latitude>12.9757710583753</latitude>
+				<altitude>0</altitude>
+				<heading>3.264753903115235e-009</heading>
+				<tilt>0</tilt>
+				<range>1018.424879018008</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.59857519583309,12.9757710583753,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharat Petroleum Petrol Pump - Petrol Pump
+KHB Layout
+Bengaluru, Karnataka 562129
+</description>
+			<LookAt>
+				<longitude>77.7675972620337</longitude>
+				<latitude>13.05674582618501</latitude>
+				<altitude>0</altitude>
+				<heading>1.279461793856121e-006</heading>
+				<tilt>0</tilt>
+				<range>1004.07469789211</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.7675972620337,13.05674582618501,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>JSN Petrol Pump BPCL - Petrol Pump
+Sarjapur Main Rd
+Kaikondrahalli
+Bengaluru, Karnataka 560035
+</description>
+			<LookAt>
+				<longitude>77.67545880753673</longitude>
+				<latitude>12.91496575057967</latitude>
+				<altitude>0</altitude>
+				<heading>1.63350664482354e-009</heading>
+				<tilt>0</tilt>
+				<range>1015.06049919907</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.67545880753673,12.91496575057967,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharat Petroleum Fuel Station - Petrol Pump
+Shastri Nagar
+Siddanna Layout, Banashankari Stage II
+Bengaluru, Karnataka 560070
+</description>
+			<LookAt>
+				<longitude>77.56837442066241</longitude>
+				<latitude>12.92979413146023</latitude>
+				<altitude>0</altitude>
+				<heading>-8.481744196792833e-012</heading>
+				<tilt>0</tilt>
+				<range>1000.53744826282</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.56837442066242,12.92979413146023,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharat Petroleum - Petrol Pump
+Market Road
+Kalkere Main Road
+Muneshwara Nagar, Ramamurthy Nagar
+Bengaluru, Karnataka 560016
+</description>
+			<LookAt>
+				<longitude>77.67797919522505</longitude>
+				<latitude>13.01825832963865</latitude>
+				<altitude>0</altitude>
+				<heading>-3.014196961557573e-009</heading>
+				<tilt>0</tilt>
+				<range>1017.418137099533</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.67797919522505,13.01825832963865,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>BPCL(Petrol Bunk)Balaji Enteprise - Petrol Pump
+18/3, Sonnapanahalli
+Sir MVIT College Road
+Bengaluru, Karnataka 560001
+</description>
+			<LookAt>
+				<longitude>77.61470881965596</longitude>
+				<latitude>13.15196375300494</latitude>
+				<altitude>0</altitude>
+				<heading>-2.205372761966692e-009</heading>
+				<tilt>0</tilt>
+				<range>1063.947595871005</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.61470881965596,13.15196375300494,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>M/S. Ramchandra Brothers BPCL Petrol Bunk - Petrol Pump
+25/4, 4th Main Rd
+New Tharagupet
+Bengaluru, Karnataka 560002</description>
+			<LookAt>
+				<longitude>77.57045035589</longitude>
+				<latitude>12.96409618828909</latitude>
+				<altitude>0</altitude>
+				<heading>-1.336859490238119e-009</heading>
+				<tilt>0</tilt>
+				<range>1012.015947733889</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.57045035589,12.96409618828909,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharat Petroleum - Petrol Pump
+D Bhaskaran Road
+Murphy Town, Ulsoor
+Murphy Town, Ulsoor
+Bengaluru, Karnataka 560008</description>
+			<LookAt>
+				<longitude>77.6309455</longitude>
+				<latitude>12.9814285</latitude>
+				<altitude>0</altitude>
+				<heading>8.348956038841732e-015</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000215</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.6309455,12.9814285,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharat Petroleum - Petrol Pump
+New Thippasandra Main Rd
+HAL 3rd Stage, Puttappa layout, New Tippasandra
+Bengaluru, Karnataka 560075
+</description>
+			<LookAt>
+				<longitude>77.65445200000002</longitude>
+				<latitude>12.97186110000001</latitude>
+				<altitude>0</altitude>
+				<heading>1.828818941841522e-014</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000201</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.65445200000002,12.9718611,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharat Petroleum Petrol Pump - Petrol Pump
+KHB Colony Main Rd
+Kanaka Nagar, Hanumanthappa Layout, Kaval Bairasandra
+Bengaluru, Karnataka 560032</description>
+			<LookAt>
+				<longitude>77.60794370000004</longitude>
+				<latitude>13.0301493</latitude>
+				<altitude>0</altitude>
+				<heading>7.951386703658792e-016</heading>
+				<tilt>0</tilt>
+				<range>1000.000000001249</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.60794370000004,13.0301493,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharat Petroleum - Petrol Pump
+Sri Balaji Krupa Layout, RK Hegde Nagar
+Bengaluru, Karnataka 560077</description>
+			<LookAt>
+				<longitude>77.6307571</longitude>
+				<latitude>13.0677133</latitude>
+				<altitude>0</altitude>
+				<heading>1.590277340731758e-015</heading>
+				<tilt>0</tilt>
+				<range>999.9999999975354</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.63075709999998,13.0677133,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharat Petroleum - Petrol Pump
+Vigneshwara Layout, Hoysala Nagar, Horamavu
+Bengaluru, Karnataka 560016</description>
+			<LookAt>
+				<longitude>77.66651829999999</longitude>
+				<latitude>13.0152911</latitude>
+				<altitude>0</altitude>
+				<heading>2.266145210542755e-014</heading>
+				<tilt>0</tilt>
+				<range>1000.00000000077</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.66651829999999,13.0152911,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharat Petroleum Fuel Station - Petrol Pump
+22 Residency Road, Near Brigade Road
+Ashok Nagar
+Shanthala Nagar, Ashok Nagar
+Bengaluru, Karnataka 560025
+</description>
+			<LookAt>
+				<longitude>77.60533302421146</longitude>
+				<latitude>12.97135980990722</latitude>
+				<altitude>0</altitude>
+				<heading>-7.177168131710238e-010</heading>
+				<tilt>0</tilt>
+				<range>1007.557314554382</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.60533302421146,12.97135980990722,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharat Petroleum - Petrol Pump
+Service Rd
+HRBR Layout 3rd Block, HRBR Layout, HBR Layout
+Bengaluru, Karnataka 560043
+</description>
+			<LookAt>
+				<longitude>77.63507470000002</longitude>
+				<latitude>13.0262838</latitude>
+				<altitude>0</altitude>
+				<heading>1.3119788061037e-014</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000559</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.63507470000002,13.0262838,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Park View Service Station Bharat Petroleum - Petrol Pump
+Kanakapura Rd
+Kanakapura, Basavanagudi
+Bengaluru, Karnataka 560004</description>
+			<LookAt>
+				<longitude>77.57712090000004</longitude>
+				<latitude>12.943387</latitude>
+				<altitude>0</altitude>
+				<heading>1.391492673140288e-014</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000482</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.57712090000004,12.943387,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharat Petroleum Fuel Station - Petrol Pump
+Doctor MC Modi Road
+West of Chord Road 2nd Stage, Manjunath Nagar, Basaveshwar Nagar
+Bengaluru, Karnataka 560010</description>
+			<LookAt>
+				<longitude>77.5468487123734</longitude>
+				<latitude>12.99730180605377</latitude>
+				<altitude>0</altitude>
+				<heading>-1.057892243988284e-011</heading>
+				<tilt>0</tilt>
+				<range>1001.574459698646</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.5468487123734,12.99730180605377,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Srishti Fuel Junction (BPCL) petrol Bunk. Hancharahalli Gate - Petrol Pump
+Hancharahalli, Karnataka 562129</description>
+			<LookAt>
+				<longitude>77.74196350000003</longitude>
+				<latitude>13.09274480000001</latitude>
+				<altitude>0</altitude>
+				<heading>2.266145210542755e-014</heading>
+				<tilt>0</tilt>
+				<range>1000.000000001281</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.74196350000003,13.09274480000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharath Petroleum Petrol Bunk - Petrol Pump
+Thambu Chetty Palya Main Rd
+Mukti Vinayaka Layout, Anandapura, Battarahalli
+Bengaluru, Karnataka 560036
+</description>
+			<LookAt>
+				<longitude>77.69470141659193</longitude>
+				<latitude>13.02416136329301</latitude>
+				<altitude>0</altitude>
+				<heading>-1.241287797753493e-009</heading>
+				<tilt>0</tilt>
+				<range>1009.690919563044</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.69470141659193,13.02416136329301,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>BPCL Petrol Pump - Petrol Pump
+Opp to Christian Gravyard, Mysore Rd
+Old Guddadahalli, Guddadahalli
+Bengaluru, Karnataka 560026</description>
+			<LookAt>
+				<longitude>77.55095773483969</longitude>
+				<latitude>12.95725968488084</latitude>
+				<altitude>0</altitude>
+				<heading>-5.772907916939886e-009</heading>
+				<tilt>0</tilt>
+				<range>1029.707216515111</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.55095773483969,12.95725968488084,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharat Petroleum - Petrol Pump
+Swathantra Nagar
+Ayyappa Nagar, Krishnarajapura
+Bengaluru, Karnataka 560036</description>
+			<LookAt>
+				<longitude>77.71226193733629</longitude>
+				<latitude>13.00430090080573</latitude>
+				<altitude>0</altitude>
+				<heading>1.003465002001739e-012</heading>
+				<tilt>0</tilt>
+				<range>1001.232189553284</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.71226193733629,13.00430090080573,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharat Petroleum - Petrol Pump
+State Highway 35
+Varthur
+Bengaluru, Karnataka 560087</description>
+			<LookAt>
+				<longitude>77.7452064952856</longitude>
+				<latitude>12.95607780854678</latitude>
+				<altitude>0</altitude>
+				<heading>1.483013134099401e-011</heading>
+				<tilt>0</tilt>
+				<range>1024.702493218219</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.7452064952856,12.95607780854678,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharath petroleum - Petrol Pump
+555
+5th Block, Govindapura, Nagavara
+Bengaluru, Karnataka 560045
+</description>
+			<LookAt>
+				<longitude>77.62295762018064</longitude>
+				<latitude>13.03583582590859</latitude>
+				<altitude>0</altitude>
+				<heading>3.001549088297398e-010</heading>
+				<tilt>0</tilt>
+				<range>1004.512100876474</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.62295762018064,13.03583582590859,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharat Petroleum - Petrol Pump
+Hare Krishna Rd
+4th Block, Nehru Nagar, Gandhi Nagar
+4th Block, Kumara Park West, Sheshadripuram
+Bengaluru, Karnataka 560020</description>
+			<LookAt>
+				<longitude>77.57745730458314</longitude>
+				<latitude>12.98827970856193</latitude>
+				<altitude>0</altitude>
+				<heading>2.904956835329356e-009</heading>
+				<tilt>0</tilt>
+				<range>1017.939249265717</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.57745730458314,12.98827970856193,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharat Petroleum - Petrol Pump
+23, Hosur Rd
+Madiwala, 1st Stage, BTM Layout 1
+Bengaluru, Karnataka 560068</description>
+			<LookAt>
+				<longitude>77.62075554849365</longitude>
+				<latitude>12.92076133479026</latitude>
+				<altitude>0</altitude>
+				<heading>-4.996492376845111e-011</heading>
+				<tilt>0</tilt>
+				<range>1010.426147431052</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.62075554849363,12.92076133479026,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharat Petroleum Petrol Pump - Petrol Pump
+Vallabha Nagar, Bikasipura
+Bengaluru, Karnataka 560062</description>
+			<LookAt>
+				<longitude>77.55522511473079</longitude>
+				<latitude>12.88559258037902</latitude>
+				<altitude>0</altitude>
+				<heading>-4.392926466330483e-010</heading>
+				<tilt>0</tilt>
+				<range>1005.429846386277</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.55522511473077,12.88559258037902,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharat Petroleum - Petrol Pump
+1st Main Rd
+OMBR Layout, Bennigana Halli
+Bengaluru, Karnataka 560043
+</description>
+			<LookAt>
+				<longitude>77.65737746190148</longitude>
+				<latitude>13.00389035501366</latitude>
+				<altitude>0</altitude>
+				<heading>-6.762487412341025e-010</heading>
+				<tilt>0</tilt>
+				<range>1012.646986309006</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.65737746190148,13.00389035501365,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharat Petroleum Bunk - Petrol Pump
+1st Main Rd
+Vyalikaval, Lower Palace Orchards, Guttahalli
+Bengaluru, Karnataka 560003</description>
+			<LookAt>
+				<longitude>77.57882465341828</longitude>
+				<latitude>13.00601662172899</latitude>
+				<altitude>0</altitude>
+				<heading>-4.815423398829393e-010</heading>
+				<tilt>0</tilt>
+				<range>1010.264829335987</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.5788246534183,13.00601662172899,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharat Petrolium Petrol Pump - Petrol Pump
+Jayamahal
+Bengaluru, Karnataka 560032</description>
+			<LookAt>
+				<longitude>77.59383318940806</longitude>
+				<latitude>13.00537912923688</latitude>
+				<altitude>0</altitude>
+				<heading>3.955794211464819e-009</heading>
+				<tilt>0</tilt>
+				<range>1004.596648426335</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.59383318940806,13.00537912923688,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>National Service Station BPCL - Petrol Pump
+Royal Residency Layout - BTM 4th stg, Royal Residency Layout, Arekere
+Bengaluru, Karnataka 560076
+</description>
+			<LookAt>
+				<longitude>77.61017204368446</longitude>
+				<latitude>12.8841635900538</latitude>
+				<altitude>0</altitude>
+				<heading>-2.189605162133336e-009</heading>
+				<tilt>0</tilt>
+				<range>1015.49016177614</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.61017204368446,12.8841635900538,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>BPCL Sri Maruthi Service Station - Petrol Pump
+Mysore Road
+Pantarapalya, Nayanda Halli
+Pantarapalya, Nayanda Halli
+Bengaluru, Karnataka 560039
+</description>
+			<LookAt>
+				<longitude>77.52394650641261</longitude>
+				<latitude>12.93958269587894</latitude>
+				<altitude>0</altitude>
+				<heading>3.196059885535652e-012</heading>
+				<tilt>0</tilt>
+				<range>1000.297802597643</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.52394650641263,12.93958269587894,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>BPCL-SRI VALSALA FILLING STATION - Petrol Pump
+49/13-B, SRIGANDADA KAVAL
+Magadi Main Rd
+Muthuraya Swamy Extension, Sunkadakatte
+Bengaluru, Karnataka 560091
+</description>
+			<LookAt>
+				<longitude>77.51095060542689</longitude>
+				<latitude>12.98866474327649</latitude>
+				<altitude>0</altitude>
+				<heading>-4.669849411058808e-011</heading>
+				<tilt>0</tilt>
+				<range>1003.589286048853</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.51095060542689,12.98866474327649,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharat Petroleum - Petrol Pump
+Dodda Banaswadi Main Rd
+Thyagaraju Layout, Sanjeevappa Layout, Maruthi Sevanagar
+Bengaluru, Karnataka 560033
+</description>
+			<LookAt>
+				<longitude>77.63148480602727</longitude>
+				<latitude>13.00153058827514</latitude>
+				<altitude>0</altitude>
+				<heading>-1.0759657459657e-010</heading>
+				<tilt>0</tilt>
+				<range>1002.539911546016</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.63148480602729,13.00153058827514,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharat Petrol Pump Infant S Travels - Petrol Pump
+Pantarapalya, Nayandahalli
+Pantarapalya, Nayanda Halli
+Bengaluru, Karnataka 560039</description>
+			<LookAt>
+				<longitude>77.52947880000002</longitude>
+				<latitude>12.94434870000001</latitude>
+				<altitude>0</altitude>
+				<heading>9.939233379573489e-015</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000654</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.52947880000002,12.94434870000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharat Petroleum Filling station - Petrol Pump
+2nd Main Road
+Electronics City Phase 1
+Veer Sandra, Electronic City
+Bengaluru, Karnataka 560100</description>
+			<LookAt>
+				<longitude>77.67219955631552</longitude>
+				<latitude>12.84445086178816</latitude>
+				<altitude>0</altitude>
+				<heading>5.698973537953255e-010</heading>
+				<tilt>0</tilt>
+				<range>1075.493328653868</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.67219955631552,12.84445086178816,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharat Petroleum - Petrol Pump
+Cleveland Town, Pulikeshi Nagar
+Bengaluru, Karnataka 560005</description>
+			<LookAt>
+				<longitude>77.6118032392129</longitude>
+				<latitude>12.99651694614439</latitude>
+				<altitude>0</altitude>
+				<heading>4.618662359154005e-010</heading>
+				<tilt>0</tilt>
+				<range>1018.499467949666</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.61180323921292,12.99651694614439,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharat Petroleum Dealer Adithya Service Station - Petrol Pump
+128, मगदी मार्ग
+बेदाराहल्ली
+Kempegowdanagar, Byadarahalli
+बंगलुरु, Karnataka 560091</description>
+			<LookAt>
+				<longitude>77.47916165297166</longitude>
+				<latitude>12.98588204876955</latitude>
+				<altitude>0</altitude>
+				<heading>-7.271821439030592e-011</heading>
+				<tilt>0</tilt>
+				<range>1076.02051711521</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.47916165297166,12.98588204876955,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>BP Petrol Pump - Petrol Pump
+Wheeler Rd
+Cleveland Town, Pulikeshi Nagar
+Bengaluru, Karnataka 560005</description>
+			<LookAt>
+				<longitude>77.61387884813614</longitude>
+				<latitude>12.99081419194839</latitude>
+				<altitude>0</altitude>
+				<heading>1.316183459635662e-008</heading>
+				<tilt>0</tilt>
+				<range>1087.968592868517</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.61387884813615,12.99081419194839,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharath Petrol Bunk - Petrol Pump
+C-161, Cock Burn Rd
+Sulthangunta, Shivaji Nagar
+Bengaluru, Karnataka 560051</description>
+			<LookAt>
+				<longitude>77.60388798272645</longitude>
+				<latitude>12.99178860909286</latitude>
+				<altitude>0</altitude>
+				<heading>2.996877648608998e-011</heading>
+				<tilt>0</tilt>
+				<range>1002.689416123471</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.60388798272645,12.99178860909286,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharat Petrol Pump - Petrol Pump
+7th Block, Adugodi
+7th Block, Koramangala
+Bengaluru, Karnataka 560030</description>
+			<LookAt>
+				<longitude>77.61462091680225</longitude>
+				<latitude>12.93579908263148</latitude>
+				<altitude>0</altitude>
+				<heading>-1.636653803680848e-010</heading>
+				<tilt>0</tilt>
+				<range>1005.111763591864</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.61462091680225,12.93579908263147,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharat Petroleum - Petrol Pump
+Hosur Rd
+Aishwarya Crystal Layout, Singasandra
+Bengaluru, Karnataka 560068
+</description>
+			<LookAt>
+				<longitude>77.6485559623289</longitude>
+				<latitude>12.8751957845783</latitude>
+				<altitude>0</altitude>
+				<heading>9.197920428790023e-009</heading>
+				<tilt>0</tilt>
+				<range>1078.869443541598</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.64855596232889,12.87519578457829,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharat Petroleum - Petrol Pump
+Channasandra Main Rd
+Thirumalashettyhally
+Koralur, Karnataka 560067
+</description>
+			<LookAt>
+				<longitude>77.7740349464143</longitude>
+				<latitude>12.9846124712238</latitude>
+				<altitude>0</altitude>
+				<heading>-1.717819968874456e-009</heading>
+				<tilt>0</tilt>
+				<range>1032.424928015823</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.7740349464143,12.9846124712238,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharat Petroleum - Petrol Pump
+100 Feet Rd
+Ashwini Layout, Ejipura
+Bengaluru, Karnataka 560095</description>
+			<LookAt>
+				<longitude>77.63072420000003</longitude>
+				<latitude>12.9387544</latitude>
+				<altitude>0</altitude>
+				<heading>1.90833280887811e-014</heading>
+				<tilt>0</tilt>
+				<range>999.9999999992836</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.63072420000003,12.9387544,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharat Petroleum - Petrol Pump
+205, S End Rd
+Jayanagar East, 2nd Block, Jaya Nagar East, Jayanagar
+Bengaluru, Karnataka 560041</description>
+			<LookAt>
+				<longitude>77.5804783740963</longitude>
+				<latitude>12.93655620007981</latitude>
+				<altitude>0</altitude>
+				<heading>1.131756650771922e-010</heading>
+				<tilt>0</tilt>
+				<range>1008.615131000288</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.5804783740963,12.93655620007981,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharat Petroleum - Petrol Pump
+Puttalingiah Rd
+Radha Krishna Layout 1st Stage, Padmanabhanagar
+Bengaluru, Karnataka 560070</description>
+			<LookAt>
+				<longitude>77.5587849503839</longitude>
+				<latitude>12.915268825786</latitude>
+				<altitude>0</altitude>
+				<heading>-1.265025867618596e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.49158362054</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.5587849503839,12.91526882578601,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharath Petroleum Petrol Bunk - Petrol Pump
+near bhadrappa layout
+Bhadrappa Layout, Koti Hosahalli
+Bengaluru, Karnataka 560094
+</description>
+			<LookAt>
+				<longitude>77.57506713753377</longitude>
+				<latitude>13.05154027825898</latitude>
+				<altitude>0</altitude>
+				<heading>9.356953331264557e-011</heading>
+				<tilt>0</tilt>
+				<range>1002.033902465045</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.57506713753377,13.05154027825898,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharat Petroleum - Petrol Pump
+Amarjyothi Layout, Naidu Layout, Raj Mahal Vilas 2nd Stage, Sanjaynagar
+Bengaluru, Karnataka 560094</description>
+			<LookAt>
+				<longitude>77.57446080050163</longitude>
+				<latitude>13.03690941210414</latitude>
+				<altitude>0</altitude>
+				<heading>-4.333505753494041e-014</heading>
+				<tilt>0</tilt>
+				<range>1000.09960701756</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.57446080050163,13.03690941210414,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>K.N. Guruswamy - Petrol Pump
+76
+JC Rd
+Kalasipalyam New Extension, Kalasipalya
+Bengaluru, Karnataka 560002
+</description>
+			<LookAt>
+				<longitude>77.58249998743818</longitude>
+				<latitude>12.95877386493701</latitude>
+				<altitude>0</altitude>
+				<heading>-2.338900398881233e-012</heading>
+				<tilt>0</tilt>
+				<range>1000.654838620505</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.58249998743817,12.95877386493701,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Bharat Petroleum - Petrol Pump
+Bannerghatta Main Road
+Syndicate Bank Colony, Omkar Nagar, Hulimavu
+Syndicate Bank Colony, Omkar Nagar, Hulimavu
+Bengaluru, Karnataka 560076</description>
+			<LookAt>
+				<longitude>77.59615020154965</longitude>
+				<latitude>12.88392113372654</latitude>
+				<altitude>0</altitude>
+				<heading>3.340723439528668e-010</heading>
+				<tilt>0</tilt>
+				<range>1008.638575353084</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.59615020154965,12.88392113372654,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL</name>
+			<description>Petrol Bunk Bharath Petroleum - Petrol Pump
+84, Double Rd
+Srinivas Colony, Sudhama Nagar
+Bengaluru, Karnataka 560027
+</description>
+			<LookAt>
+				<longitude>77.59441485192623</longitude>
+				<latitude>12.96210046103681</latitude>
+				<altitude>0</altitude>
+				<heading>3.63676549358594e-011</heading>
+				<tilt>0</tilt>
+				<range>1007.905259396901</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.59441485192623,12.96210046103681,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
