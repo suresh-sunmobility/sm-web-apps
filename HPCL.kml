@@ -1,0 +1,1671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>HPCL Bangalore.kml</name>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/Users/Kalrav/Desktop/HPCL.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/Users/Kalrav/Desktop/HPCL.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>HPCL Bangalore</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<description>HP Petrol Pump Raja Rajeshwari Service Station - Petrol Pump
+17th Cross, NO 26, Bellary Road
+Kanaka Nagar, HBR Layout
+Ganga Nagar Layout, Ganga Nagar
+Bengaluru, Karnataka 560032</description>
+			<LookAt>
+				<longitude>77.58531199999999</longitude>
+				<latitude>13.024755</latitude>
+				<altitude>0</altitude>
+				<heading>-4.770832022195275e-015</heading>
+				<tilt>0</tilt>
+				<range>999.999999999889</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.585312,13.024755,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>Hp Petrol Pump - Petrol Pump
+Devasandra Main Rd
+Swathantra Nagar, Krishnarajapura
+Bengaluru, Karnataka 560049</description>
+			<LookAt>
+				<longitude>77.71227209999999</longitude>
+				<latitude>13.0042551</latitude>
+				<altitude>0</altitude>
+				<heading>1.232464939067113e-014</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000324</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.71227210000001,13.0042551,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP Petrol Pump Favourite Auto Service - Petrol Pump
+Near ST John&apos;s Hospital, Hosur Road
+Koramangala PO
+Koramangala Industrial Layout, Koramangala
+Bengaluru, Karnataka 560034</description>
+			<LookAt>
+				<longitude>77.61506961699089</longitude>
+				<latitude>12.93006123441937</latitude>
+				<altitude>0</altitude>
+				<heading>-1.074316230794026e-009</heading>
+				<tilt>0</tilt>
+				<range>1009.472816124504</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.61506961699089,12.93006123441937,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP Petrol Pump Bharati Service Station - Petrol Pump
+No. 5
+Raj Bhavan Road, Near The Capitol Hotel
+Vasanth Nagar
+Bengaluru, Karnataka 560001</description>
+			<LookAt>
+				<longitude>77.59415840000004</longitude>
+				<latitude>12.9822874</latitude>
+				<altitude>0</altitude>
+				<heading>1.550520407213464e-014</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000176</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.59415840000004,12.9822874,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP Petrol Pump - Petrol Pump
+SH 35
+Halasahalli
+Bengaluru, Karnataka 560087</description>
+			<LookAt>
+				<longitude>77.73959580132406</longitude>
+				<latitude>12.92822395716287</latitude>
+				<altitude>0</altitude>
+				<heading>7.255592658768425e-010</heading>
+				<tilt>0</tilt>
+				<range>1009.421367064583</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.73959580132404,12.92822395716288,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP Petrol Pump (Sathy&apos;s Service Station Adhoc) - Petrol Pump
+No. 87, Residency Road
+Ashok Nagar
+Bengaluru, Karnataka 560025</description>
+			<LookAt>
+				<longitude>77.60725081946173</longitude>
+				<latitude>12.97177973033243</latitude>
+				<altitude>0</altitude>
+				<heading>3.196063861229002e-010</heading>
+				<tilt>0</tilt>
+				<range>1006.097439392833</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.60725081946173,12.97177973033243,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP Petrol Bunk - Petrol Pump
+SH 35
+Chaitanya Ananya, Seegehalli, Krishnarajapura
+Bengaluru, Karnataka 560067</description>
+			<LookAt>
+				<longitude>77.75922876712293</longitude>
+				<latitude>13.00956259237814</latitude>
+				<altitude>0</altitude>
+				<heading>-1.464685187747468e-010</heading>
+				<tilt>0</tilt>
+				<range>1004.381210256341</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.75922876712295,13.00956259237814,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>Hindustan Petroleum Petrol Pump - Petrol Pump
+107, 3rd Main Rd
+Hanumanthnagar, Banashankari Stage I, Banashankari
+Bengaluru, Karnataka 560050</description>
+			<LookAt>
+				<longitude>77.56424553549583</longitude>
+				<latitude>12.94172380520459</latitude>
+				<altitude>0</altitude>
+				<heading>-6.643499283583458e-009</heading>
+				<tilt>0</tilt>
+				<range>1088.749951862022</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.56424553549581,12.94172380520459,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP Petrol Pump RKR FUEL STATION - Petrol Pump
+23/3 Ambilpura, Harlur Main Road
+Ambalipura, Sarjapur Main Road
+Amblipura, PWD Quarters, 1st Sector, HSR Layout
+Bengaluru, Karnataka 560103</description>
+			<LookAt>
+				<longitude>77.66683081707022</longitude>
+				<latitude>12.9145855774881</latitude>
+				<altitude>0</altitude>
+				<heading>5.303089896751491e-010</heading>
+				<tilt>0</tilt>
+				<range>1009.159603499901</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.66683081707022,12.9145855774881,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP Petrol Pump - Petrol Pump
+560113, K Channasandra Main Road
+Kanaka Nagar, Kalkere
+Kanaka Nagar, NRI Layout
+Bengaluru, Karnataka 560016</description>
+			<LookAt>
+				<longitude>77.67554638174282</longitude>
+				<latitude>13.03753212112126</latitude>
+				<altitude>0</altitude>
+				<heading>-2.402825572285299e-010</heading>
+				<tilt>0</tilt>
+				<range>1012.223702468872</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.67554638174282,13.03753212112127,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>Hindustan Petroleum - Petrol Pump
+77, Bengaluru - Tirupati Hwy
+Kadiranapalya, Dooravani Nagar
+Bengaluru, Karnataka 560016</description>
+			<LookAt>
+				<longitude>77.66983280000001</longitude>
+				<latitude>12.9967278</latitude>
+				<altitude>0</altitude>
+				<heading>8.74652537402467e-015</heading>
+				<tilt>0</tilt>
+				<range>1000.000000001512</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.66983280000001,12.9967278,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP Petrol Pump Vijay Gasoline - Petrol Pump
+SY NO. 6/1C, Outer Ring Road, Doddanakundi Village
+KR Puram, Hobli
+Brindavan Extension, Doddanekundi, Mahadevapura
+Bengaluru, Karnataka 560037</description>
+			<LookAt>
+				<longitude>77.69682550000002</longitude>
+				<latitude>12.9752491</latitude>
+				<altitude>0</altitude>
+				<heading>2.385416011097637e-015</heading>
+				<tilt>0</tilt>
+				<range>999.999999999048</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.6968255,12.9752491,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>Hindustan Petroleum - Petrol Pump
+Singayyanapalya, Krishnarajapura
+Bengaluru, Karnataka 560048</description>
+			<LookAt>
+				<longitude>77.69192917922101</longitude>
+				<latitude>12.99728579212427</latitude>
+				<altitude>0</altitude>
+				<heading>5.87975626604764e-010</heading>
+				<tilt>0</tilt>
+				<range>1008.361669343173</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.69192917922101,12.99728579212427,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>H P C L Ltd - Petrol Pump
+3/4, Whitefield Road, Mahadevpura
+Mahadevpura
+Singayyanapalya, Krishnarajapura
+Bengaluru, Karnataka 560048</description>
+			<LookAt>
+				<longitude>77.6928226</longitude>
+				<latitude>12.9966978</latitude>
+				<altitude>0</altitude>
+				<heading>-5.168401357378215e-015</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000635</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.6928226,12.9966978,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP Petrol Pump - Petrol Pump
+HAL Airport Road, Murugeshpalya
+Murgesh Pallya
+Bengaluru, Karnataka 560017</description>
+			<LookAt>
+				<longitude>77.65333620000001</longitude>
+				<latitude>12.9592136</latitude>
+				<altitude>0</altitude>
+				<heading>9.541664044390549e-015</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000741</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.65333620000001,12.9592136,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP Fuel Station - Petrol Pump
+45/2, Varthur Road
+Marathahalli
+Marathahalli Village, Marathahalli
+Bengaluru, Karnataka 560037</description>
+			<LookAt>
+				<longitude>77.69745289052131</longitude>
+				<latitude>12.95658044234632</latitude>
+				<altitude>0</altitude>
+				<heading>1.674164470455358e-011</heading>
+				<tilt>0</tilt>
+				<range>1002.760430858239</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.69745289052131,12.95658044234632,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>Hindustan Petroleum Corporation Limited - Petrol Pump
+123/2, ITPL Main Road, Brookefield
+Kundalahalli
+AECS Layout, Brookefield
+Bengaluru, Karnataka 560037</description>
+			<LookAt>
+				<longitude>77.71758463999271</longitude>
+				<latitude>12.96665311934784</latitude>
+				<altitude>0</altitude>
+				<heading>-1.767827830131107e-010</heading>
+				<tilt>0</tilt>
+				<range>1003.63155767554</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.71758463999271,12.96665311934783,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP Petrol Pump - Petrol Pump
+Drdo Town Ship
+C V Raman Nagar
+Bayarappa Layout, Suddaguntapalya, C V Raman Nagar
+Bengaluru, Karnataka 560093</description>
+			<LookAt>
+				<longitude>77.65721526075184</longitude>
+				<latitude>12.98112744556589</latitude>
+				<altitude>0</altitude>
+				<heading>1.375649535133248e-010</heading>
+				<tilt>0</tilt>
+				<range>1004.359555089921</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.65721526075184,12.98112744556589,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HPCL Petrol Bunk - Petrol Pump
+Kaggadasapura Main Rd
+Abbaiah Reddy Layout, Doddanekundi, Doddanekkundi
+Bengaluru, Karnataka 560037</description>
+			<LookAt>
+				<longitude>77.67955601044996</longitude>
+				<latitude>12.97822303764416</latitude>
+				<altitude>0</altitude>
+				<heading>7.549841675124021e-012</heading>
+				<tilt>0</tilt>
+				<range>1001.082599526077</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.67955601044996,12.97822303764417,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP Petrol Pump - Petrol Pump
+SY NO. 16 and 17, Ramamurthy Nagar Main Rd, ITI Colony, Doorvani Nagar
+KR Puram
+Dr Ambedkar Nagar, Ramamurthy Nagar
+Bengaluru, Karnataka 560016</description>
+			<LookAt>
+				<longitude>77.68232290000003</longitude>
+				<latitude>13.009973</latitude>
+				<altitude>0</altitude>
+				<heading>-0</heading>
+				<tilt>0</tilt>
+				<range>1000</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.68232290000002,13.009973,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP Petrol Pump - Petrol Pump
+7456
+Koramangala 4th Block, Koramangala
+Koramangala 4th Block, Koramangala
+Bengaluru, Karnataka 560034</description>
+			<LookAt>
+				<longitude>77.63025663259197</longitude>
+				<latitude>12.93350640172364</latitude>
+				<altitude>0</altitude>
+				<heading>-4.33636149402866e-009</heading>
+				<tilt>0</tilt>
+				<range>1022.469154238954</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.63025663259198,12.93350640172364,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP Petrol Pump - R P Enterprises - Petrol Pump
+12, Doddakannelli Varthur Hobli
+83, Off Sarjapur Road
+Kaikondrahalli
+Bengaluru, Karnataka 560035</description>
+			<LookAt>
+				<longitude>77.68780728802216</longitude>
+				<latitude>12.90977701223505</latitude>
+				<altitude>0</altitude>
+				<heading>1.839911126293126e-010</heading>
+				<tilt>0</tilt>
+				<range>1002.972827624892</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.68780728802214,12.90977701223505,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP Petrol Pump - Petrol Pump
+SY No. 60,78, and 79, Old Madras Road, ITI Colony, Doorvani Nagar
+Kr Puram Hobli, Bangalore East, Kr Puram
+Devasandra, Krishnarajapura
+Bengaluru, Karnataka 560036</description>
+			<LookAt>
+				<longitude>77.69158675321307</longitude>
+				<latitude>13.00780860011546</latitude>
+				<altitude>0</altitude>
+				<heading>-2.166379161571949e-010</heading>
+				<tilt>0</tilt>
+				<range>1016.565596550397</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.69158675321307,13.00780860011546,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP Petrol Pump - Petrol Pump
+No 8, 3rd Block, HBR Layout, 80 Feet Main Road
+3rd Block, HBR Layout
+Bengaluru, Karnataka 560043</description>
+			<LookAt>
+				<longitude>77.6303533682121</longitude>
+				<latitude>13.0256794382906</latitude>
+				<altitude>0</altitude>
+				<heading>3.629307092857907e-010</heading>
+				<tilt>0</tilt>
+				<range>1007.061051665151</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.63035336821211,13.0256794382906,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP PETROL PUMP - RENUKA AGENCIES - Petrol Pump
+7, Old Madras Rd
+Virgonagar, Aavalahalli
+Bengaluru, Karnataka 560049</description>
+			<LookAt>
+				<longitude>77.73033960189248</longitude>
+				<latitude>13.03232997352088</latitude>
+				<altitude>0</altitude>
+				<heading>-2.368837369820509e-011</heading>
+				<tilt>0</tilt>
+				<range>1003.165651009058</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.73033960189248,13.03232997352088,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>Hindustan Petroleum Fuel Station - Petrol Pump
+Arabic College Main Rd
+B M Layout, Vinobha Nagar, Kadugondanahalli
+Bengaluru, Karnataka 560045</description>
+			<LookAt>
+				<longitude>77.61870920971141</longitude>
+				<latitude>13.01839581314315</latitude>
+				<altitude>0</altitude>
+				<heading>-4.130681781457113e-010</heading>
+				<tilt>0</tilt>
+				<range>1012.131272221858</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.61870920971141,13.01839581314315,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP Petrol Bunk - Petrol Pump
+Thirumalashettyhally
+Bengaluru, Karnataka 560067</description>
+			<LookAt>
+				<longitude>77.78059598465693</longitude>
+				<latitude>12.9859038030797</latitude>
+				<altitude>0</altitude>
+				<heading>4.472257451472887e-012</heading>
+				<tilt>0</tilt>
+				<range>1000.145428602882</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.78059598465693,12.9859038030797,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>Hindustan Petroleum - Petrol Pump
+2, Dodda Banaswadi Main Rd
+Chikka Banaswadi, Banswadi
+Bengaluru, Karnataka 560043</description>
+			<LookAt>
+				<longitude>77.64629763440826</longitude>
+				<latitude>13.01111974333903</latitude>
+				<altitude>0</altitude>
+				<heading>1.884434916140263e-010</heading>
+				<tilt>0</tilt>
+				<range>1005.981576820228</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.64629763440826,13.01111974333903,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP Petrol Pump - Petrol Pump
+80 Feet Rd
+Prakash Nagar, Rajaji Nagar
+Bengaluru, Karnataka 560010</description>
+			<LookAt>
+				<longitude>77.55774051801923</longitude>
+				<latitude>12.99162504166283</latitude>
+				<altitude>0</altitude>
+				<heading>-4.181753538254713e-011</heading>
+				<tilt>0</tilt>
+				<range>1005.58989199023</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.55774051801922,12.99162504166283,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP Petrol Pump - Petrol Pump
+Sankey Rd
+Guttahalli
+Bengaluru, Karnataka 560003</description>
+			<LookAt>
+				<longitude>77.58387870926352</longitude>
+				<latitude>13.00259181650298</latitude>
+				<altitude>0</altitude>
+				<heading>-1.365754034380545e-010</heading>
+				<tilt>0</tilt>
+				<range>1003.326095489458</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.58387870926352,13.00259181650298,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP Petrol Pump Station - Petrol Pump
+Kalasipalayam
+Kalasipalya
+Bengaluru, Karnataka 056011</description>
+			<LookAt>
+				<longitude>77.57598254843212</longitude>
+				<latitude>12.95930346293176</latitude>
+				<altitude>0</altitude>
+				<heading>-8.490220375018934e-010</heading>
+				<tilt>0</tilt>
+				<range>1017.439038584454</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.57598254843211,12.95930346293176,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP Petrol Pump - Petrol Pump
+HP Dealer , Tumkur Road Yeshwanhpur Bangalore-22
+Yeshwanthpur Industrial Area, Phase 1, Yeshwanthpur
+Bengaluru, Karnataka 560022</description>
+			<LookAt>
+				<longitude>77.54346027640609</longitude>
+				<latitude>13.02721942296984</latitude>
+				<altitude>0</altitude>
+				<heading>1.680966881780339e-010</heading>
+				<tilt>0</tilt>
+				<range>1003.549085717014</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.54346027640609,13.02721942296984,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP Petrol Pump - Sai Service Centre - Petrol Pump
+Dealer H P C L Kasturba Road Bangalore
+Ambedkar Veedhi
+Bengaluru, Karnataka 560001</description>
+			<LookAt>
+				<longitude>77.5978798069347</longitude>
+				<latitude>12.97589018212064</latitude>
+				<altitude>0</altitude>
+				<heading>8.878478636371888e-011</heading>
+				<tilt>0</tilt>
+				<range>1002.086752476366</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.59787980693471,12.97589018212064,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP Petrol Pump - Petrol Pump
+HP Dealers
+Wheeler Rd
+Sindhi Colony, Pulikeshi Nagar
+Bengaluru, Karnataka 560005</description>
+			<LookAt>
+				<longitude>77.61459080186994</longitude>
+				<latitude>12.99184190176264</latitude>
+				<altitude>0</altitude>
+				<heading>-3.139815751687319e-010</heading>
+				<tilt>0</tilt>
+				<range>1004.490553065121</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.61459080186994,12.99184190176264,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP Petrol Pump - Petrol Pump
+Dllrs Hpcl Seshadripuram
+SC Road
+VV Giri Colony, Sheshadripuram
+Bengaluru, Karnataka 560020</description>
+			<LookAt>
+				<longitude>77.5726016418572</longitude>
+				<latitude>12.98950668566632</latitude>
+				<altitude>0</altitude>
+				<heading>2.158560365036712e-006</heading>
+				<tilt>0</tilt>
+				<range>1006.791458846993</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.57260164185719,12.98950668566632,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP Petrol Pump - Petrol Pump
+19, 5th Main Rd
+Rajagopalnagar, Chamrajpet
+Bengaluru, Karnataka 560018</description>
+			<LookAt>
+				<longitude>77.56835924555509</longitude>
+				<latitude>12.95729844742505</latitude>
+				<altitude>0</altitude>
+				<heading>-7.179187783932968e-011</heading>
+				<tilt>0</tilt>
+				<range>1003.586836297581</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.5683592455551,12.95729844742505,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP Petrol Pump - Petrol Pump
+HP Dealer Near Govardhan Theater Tumkur Road
+Marappanapalya, Mahalakshmi Layout
+Bengaluru, Karnataka 560022</description>
+			<LookAt>
+				<longitude>77.55212494809051</longitude>
+				<latitude>13.02059930367245</latitude>
+				<altitude>0</altitude>
+				<heading>5.374771647884975e-010</heading>
+				<tilt>0</tilt>
+				<range>1009.547321505761</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.55212494809052,13.02059930367245,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>Hindustan Petroleum - Petrol Pump
+12th KM Opp. Aerodrome
+Bellary Rd
+Yashoda Nagar, Jakkur
+Bengaluru, Karnataka 560064</description>
+			<LookAt>
+				<longitude>77.59281522476718</longitude>
+				<latitude>13.08130426189251</latitude>
+				<altitude>0</altitude>
+				<heading>-1.617850364404035e-009</heading>
+				<tilt>0</tilt>
+				<range>1012.4755519986</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.59281522476718,13.08130426189251,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP Petroleum - Petrol Pump
+JC Rd
+Doddamavalli, Sudhama Nagar
+Bengaluru, Karnataka 560002</description>
+			<LookAt>
+				<longitude>77.58079981821389</longitude>
+				<latitude>12.95572878070072</latitude>
+				<altitude>0</altitude>
+				<heading>-2.454338631044953e-010</heading>
+				<tilt>0</tilt>
+				<range>1009.462315151694</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.58079981821389,12.95572878070072,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP Petrol Pump - Petrol Pump
+Bhagyada Bagilu Road
+Siddhaiah Puranik Rd
+Block 1, SBI Staff Colony, Basaveshwar Nagar
+Bengaluru, Karnataka 560079</description>
+			<LookAt>
+				<longitude>77.54050352926001</longitude>
+				<latitude>12.99678827148089</latitude>
+				<altitude>0</altitude>
+				<heading>-3.399485777546047e-009</heading>
+				<tilt>0</tilt>
+				<range>1064.64776606159</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.54050352926001,12.99678827148089,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP Petrol Pump Sri Mahadeshwara Filling Station - Petrol Pump
+786, Outer Ring Rd
+Hosakerehalli Layout, 2nd Phase, Banashankari
+Bengaluru, Karnataka 560085</description>
+			<LookAt>
+				<longitude>77.54152981420953</longitude>
+				<latitude>12.93234009789318</latitude>
+				<altitude>0</altitude>
+				<heading>-6.672553650598629e-009</heading>
+				<tilt>0</tilt>
+				<range>1024.316636936768</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.54152981420954,12.93234009789318,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP Petrol Pump - Lohita Fuel Park - Petrol Pump
+Operated BY HP Dealer #
+2, MES Ring Rd
+Muthyala Nagar, Bahubali Nagar, Jalahalli
+Bengaluru, Karnataka 560054</description>
+			<LookAt>
+				<longitude>77.55378264026152</longitude>
+				<latitude>13.04352873705736</latitude>
+				<altitude>0</altitude>
+				<heading>-3.583006168082502e-010</heading>
+				<tilt>0</tilt>
+				<range>1011.984654231429</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.55378264026152,13.04352873705736,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP Petrol Pump - Lohita Fuel Park - Petrol Pump
+Operated BY HP Dealer #
+2, MES Ring Rd
+Muthyala Nagar, Bahubali Nagar, Jalahalli
+Bengaluru, Karnataka 560054</description>
+			<LookAt>
+				<longitude>77.53094200000001</longitude>
+				<latitude>13.033586</latitude>
+				<altitude>0</altitude>
+				<heading>-4.770832022195275e-015</heading>
+				<tilt>0</tilt>
+				<range>999.999999999749</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.53094200000001,13.033586,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>Hindustan Petroleum - Petrol Pump
+78/1, Magadi Main Road OPP. Veeresh Theatre Bangalore
+Agrahara Dasarahalli, Rajaji Nagar
+Bengaluru, Karnataka 560079</description>
+			<LookAt>
+				<longitude>77.54649427120056</longitude>
+				<latitude>12.97728442894027</latitude>
+				<altitude>0</altitude>
+				<heading>-5.527028776179986e-010</heading>
+				<tilt>0</tilt>
+				<range>1020.466920810737</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.54649427120056,12.97728442894027,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>Hindustan Petroleum - Petrol Pump
+Chandapura Dommasandra Road
+Narayanaghatta
+Bengaluru, Karnataka 560099</description>
+			<LookAt>
+				<longitude>77.72486124823703</longitude>
+				<latitude>12.83840818548301</latitude>
+				<altitude>0</altitude>
+				<heading>9.347018073578334e-010</heading>
+				<tilt>0</tilt>
+				<range>1020.172007705015</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.72486124823703,12.83840818548301,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP Petrol Pump - Petrol Pump
+Coles Road, Cleveland Town, Pulikeshi Nagar
+Cleveland Town, Pulikeshi Nagar
+Bengaluru, Karnataka 560005</description>
+			<LookAt>
+				<longitude>77.61182859848391</longitude>
+				<latitude>12.99653811806001</latitude>
+				<altitude>0</altitude>
+				<heading>4.343785306224529e-009</heading>
+				<tilt>0</tilt>
+				<range>1009.607701352495</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.61182859848393,12.99653811806001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP Petrol Pump - YRS Fuel Park - Petrol Pump
+Kannur Village Bagalur Bidrahalli Hobli, East Taluk
+Road
+vadarpalya, Hennur Gardens
+Bengaluru, Karnataka 560049</description>
+			<LookAt>
+				<longitude>77.65498859281102</longitude>
+				<latitude>13.09169003501592</latitude>
+				<altitude>0</altitude>
+				<heading>-2.42712501005168e-010</heading>
+				<tilt>0</tilt>
+				<range>1002.531874804136</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.65498859281102,13.09169003501592,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>Pushpa Fuel Station - Petrol Pump
+SY NO: 63/2B , Hebbagodi Village Hosur Road Anekal Taluk
+Kammasandra, Electronic City
+Bengaluru, Karnataka 560100</description>
+			<LookAt>
+				<longitude>77.68151505736455</longitude>
+				<latitude>12.83010160733409</latitude>
+				<altitude>0</altitude>
+				<heading>3.341200522730887e-010</heading>
+				<tilt>0</tilt>
+				<range>1026.351673881981</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.68151505736455,12.83010160733409,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP Petrol Pump - Sree Venkateshwara Petroleums - Petrol Pump
+HPC Dealers Sy.no.21/4a, Chikkabanavara Main Road Abbigere, Bangalore
+Srikrupa Layout, Abbigere, Abbigere
+Bengaluru, Karnataka 560090</description>
+			<LookAt>
+				<longitude>77.52430675978334</longitude>
+				<latitude>13.07191318838166</latitude>
+				<altitude>0</altitude>
+				<heading>7.058387534145637e-009</heading>
+				<tilt>0</tilt>
+				<range>1063.770149532215</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.52430675978334,13.07191318838166,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP Petrol Pump - Petrol Pump
+NO. 1, Sy.no. 34/4 Mallathahalli Yashwanthapura Hobli
+Mallathahalli
+Bengaluru, Karnataka 560012</description>
+			<LookAt>
+				<longitude>77.50282505433053</longitude>
+				<latitude>12.95697726135298</latitude>
+				<altitude>0</altitude>
+				<heading>-2.618403568594894e-010</heading>
+				<tilt>0</tilt>
+				<range>1007.324655928878</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.50282505433053,12.95697726135298,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP - Petrol Pump
+17/17, New BEL Rd, Chikkamaranahalli, Jaladarsini Layout, Mathikere
+New BEL Road
+M S R Nagar, R.M.V. 2nd Stage
+Bengaluru, Karnataka 560054</description>
+			<LookAt>
+				<longitude>77.56472650000002</longitude>
+				<latitude>13.0382891</latitude>
+				<altitude>0</altitude>
+				<heading>1.192708005548819e-015</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000448</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.56472650000002,13.0382891,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP Petrol Bunk - Petrol Pump
+No.94, Near 80 Feet Road
+KPA Block, Chandra Layout, Attiguppe
+Bengaluru, Karnataka 560040</description>
+			<LookAt>
+				<longitude>77.52836645727048</longitude>
+				<latitude>12.96092266031381</latitude>
+				<altitude>0</altitude>
+				<heading>-2.475338243329315e-010</heading>
+				<tilt>0</tilt>
+				<range>1004.512125301244</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.52836645727048,12.96092266031381,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP PETROL PUMP - DEVIKA GASOLINE PARK - Petrol Pump
+Survey.No. 73, Bbmp Khatha No. 254
+Hesarghatta Main Road, Mallasandra, Yeshwanthpur
+Bhuvaneshwari Nagar, T. Dasarahalli
+Bengaluru, Karnataka 560015</description>
+			<LookAt>
+				<longitude>77.5077591</longitude>
+				<latitude>13.0555926</latitude>
+				<altitude>0</altitude>
+				<heading>1.033680271475643e-014</heading>
+				<tilt>0</tilt>
+				<range>1000.000000001628</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.50775910000002,13.0555926,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>Hindustan Petroleum City Service Station - Petrol Pump
+No-52, 100 Ft Ring Road, JP Nagar 2nd Phase
+Jeewan Griha Colony, 2nd Phase, JP Nagar
+Bengaluru, Karnataka 560076</description>
+			<LookAt>
+				<longitude>77.59074219413132</longitude>
+				<latitude>12.90648802948529</latitude>
+				<altitude>0</altitude>
+				<heading>5.419641323053721e-010</heading>
+				<tilt>0</tilt>
+				<range>1017.613276444937</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.59074219413132,12.90648802948528,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP Petrol Bunk - Petrol Pump
+Peenya Industrial Area Phase IV, Peenya
+Bengaluru, Karnataka 560058</description>
+			<LookAt>
+				<longitude>77.50882443169886</longitude>
+				<latitude>13.01353687310776</latitude>
+				<altitude>0</altitude>
+				<heading>3.619057755396892e-010</heading>
+				<tilt>0</tilt>
+				<range>1003.060565326413</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.50882443169884,13.01353687310776,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>Hindustan Petroleum - Petrol Pump
+45, Vani Vilas Apartments
+Vanivilas Road, Vishweshwarapura, Basavanagudi
+Gandhi Bazaar, Basavanagudi
+Bengaluru, Karnataka 560004</description>
+			<LookAt>
+				<longitude>77.57344005371975</longitude>
+				<latitude>12.94797178996624</latitude>
+				<altitude>0</altitude>
+				<heading>1.729995927333769e-009</heading>
+				<tilt>0</tilt>
+				<range>1012.379236522986</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.57344005371975,12.94797178996624,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>Charvi HP Fuel Park - Petrol Pump
+Koppa - Begur Road
+Bettadasanapura
+Bengaluru, Karnataka 560100</description>
+			<LookAt>
+				<longitude>77.61913595467283</longitude>
+				<latitude>12.84212187556931</latitude>
+				<altitude>0</altitude>
+				<heading>1.748641531584514e-009</heading>
+				<tilt>0</tilt>
+				<range>1015.04802296976</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.61913595467283,12.84212187556932,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>Hindustan Petroleum - Petrol Pump
+Hpcl Dealer, Sy.no. 53/1, OLD 80 FT Ring Village
+Kottigepalya
+Bengaluru, Karnataka 560091</description>
+			<LookAt>
+				<longitude>77.51255010126647</longitude>
+				<latitude>12.98734085864405</latitude>
+				<altitude>0</altitude>
+				<heading>4.812336670511032e-009</heading>
+				<tilt>0</tilt>
+				<range>1059.651525563158</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.51255010126646,12.98734085864405,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP Petrol Pump - Petrol Pump
+Sy.no.12/2 B, Ring Road B/N and Magadi RD Nagadevanahalli Kenchanapura Cross, Mysore Road
+Kenchenhalli
+Bhuvaneshwari Nagar, Nagdevanahalli
+Bengaluru, Karnataka 560056</description>
+			<LookAt>
+				<longitude>77.49313523704917</longitude>
+				<latitude>12.94127995686004</latitude>
+				<altitude>0</altitude>
+				<heading>-1.087023739454478e-009</heading>
+				<tilt>0</tilt>
+				<range>1011.402076928649</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.49313523704917,12.94127995686004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP Petrol Pump - Petrol Pump
+133, E End B Rd
+3rd Phase, JP Nagar
+Bengaluru, Karnataka 560078</description>
+			<LookAt>
+				<longitude>77.5975779516571</longitude>
+				<latitude>12.91663507222618</latitude>
+				<altitude>0</altitude>
+				<heading>4.930196099926013e-009</heading>
+				<tilt>0</tilt>
+				<range>1037.649983023268</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.59757795165709,12.91663507222618,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>Hindustan Petroleum Corporation Limited - Sompura Service Station - Petrol Pump
+SH 35
+Kada Agrahara
+Bengaluru, Karnataka 562125</description>
+			<LookAt>
+				<longitude>77.77016292741085</longitude>
+				<latitude>12.86464632313668</latitude>
+				<altitude>0</altitude>
+				<heading>4.992230433571951e-010</heading>
+				<tilt>0</tilt>
+				<range>1021.24540039746</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.77016292741084,12.86464632313668,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP PETROL PUMP - ASTALAKSHMI ENTERPRISES - Petrol Pump
+HP Dealer Nandini Layout Bangalore
+Saraswathipura, Nandini Layout
+Bengaluru, Karnataka 560096</description>
+			<LookAt>
+				<longitude>77.5368400864611</longitude>
+				<latitude>13.01042994599383</latitude>
+				<altitude>0</altitude>
+				<heading>1.128778856451402e-010</heading>
+				<tilt>0</tilt>
+				<range>1005.469126128945</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.5368400864611,13.01042994599383,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP PETROL PUMP - ASTALAKSHMI ENTERPRISES - Petrol Pump
+HP Dealer Nandini Layout Bangalore
+Saraswathipura, Nandini Layout
+Bengaluru, Karnataka 560096</description>
+			<LookAt>
+				<longitude>77.81014497899244</longitude>
+				<latitude>13.09168131843553</latitude>
+				<altitude>0</altitude>
+				<heading>-6.529002893174788e-009</heading>
+				<tilt>0</tilt>
+				<range>1083.554653066324</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.81014497899245,13.09168131843554,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP PETROL PUMP - LAXMI SERVICE STATION - Petrol Pump
+Dealer Hpcl TH KM
+14, Magadi Main Rd
+Vinayaka Nagar, Kamaksipalya
+Bengaluru, Karnataka 560091</description>
+			<LookAt>
+				<longitude>77.48495074818035</longitude>
+				<latitude>12.984890035882</latitude>
+				<altitude>0</altitude>
+				<heading>-2.912350432255753e-010</heading>
+				<tilt>0</tilt>
+				<range>1018.049500014869</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.48495074818034,12.98489003588199,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>Hindustan Petroleum - Petrol Pump
+1, 14th Main Rd, Sector 4, HSR Layout
+Jakkasandra Cross Road
+Sector 4, HSR Layout
+Bengaluru, Karnataka 560102</description>
+			<LookAt>
+				<longitude>77.63838300144795</longitude>
+				<latitude>12.91534129083662</latitude>
+				<altitude>0</altitude>
+				<heading>1.128100205596245e-009</heading>
+				<tilt>0</tilt>
+				<range>1019.936173954934</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.63838300144795,12.91534129083662,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP Petrol Bunk - Petrol Pump
+1st Main Rd
+Mahaganapathi Nagar, Basaveshwar Nagar
+Bengaluru, Karnataka 560010</description>
+			<LookAt>
+				<longitude>77.54561845280297</longitude>
+				<latitude>12.9847966289102</latitude>
+				<altitude>0</altitude>
+				<heading>2.912437897509494e-010</heading>
+				<tilt>0</tilt>
+				<range>1003.033198501364</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.54561845280297,12.9847966289102,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP MADHU TRADERS - Petrol Pump
+HPC Dealer S.y.no. 39/1
+Kengeri
+Bengaluru, Karnataka 560060</description>
+			<LookAt>
+				<longitude>77.48566929387904</longitude>
+				<latitude>12.91279293479595</latitude>
+				<altitude>0</altitude>
+				<heading>-1.092093941186067e-009</heading>
+				<tilt>0</tilt>
+				<range>1009.489112792356</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.48566929387904,12.91279293479595,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>Hindustan Petroleum Petrol Bunk - Petrol Pump
+Teachers Colony, Chikkabidarakallu
+Bengaluru, Karnataka 560073</description>
+			<LookAt>
+				<longitude>77.48834589729573</longitude>
+				<latitude>13.05136836011565</latitude>
+				<altitude>0</altitude>
+				<heading>-3.345545955564436e-012</heading>
+				<tilt>0</tilt>
+				<range>1002.039302945318</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.48834589729573,13.05136836011565,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP Petrol Pump - Pushpa Agency - Petrol Pump
+Hpcl Dealers, Sy.no. 21 Golharhatti Road
+Magadi Main Rd
+Hosahalli
+Bengaluru, Karnataka 560091</description>
+			<LookAt>
+				<longitude>77.47028270239598</longitude>
+				<latitude>12.98963536601635</latitude>
+				<altitude>0</altitude>
+				<heading>-2.663859658533037e-009</heading>
+				<tilt>0</tilt>
+				<range>1167.527938535383</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.47028270239598,12.98963536601635,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP PETROL PUMP - CHANNAKESHAVA FUEL STATION - Petrol Pump
+HPC Dealer Sy.no. 8/2C Ramohalli Village VIA
+Kengeri
+Bengaluru, Karnataka 560060</description>
+			<LookAt>
+				<longitude>77.41804100000005</longitude>
+				<latitude>12.907635</latitude>
+				<altitude>0</altitude>
+				<heading>8.34895603884173e-015</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000089</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.41804100000005,12.907635,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>Hindustan Petroleum - Petrol Pump
+Sy. No 113, Utharahalli Circle
+Subramanyapura Main Road
+Simhadri layout, Uttarahalli Hobli
+Bengaluru, Karnataka 560061</description>
+			<LookAt>
+				<longitude>77.54223660653564</longitude>
+				<latitude>12.90593366930769</latitude>
+				<altitude>0</altitude>
+				<heading>-1.133463018358527e-009</heading>
+				<tilt>0</tilt>
+				<range>1035.759876245522</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.54223660653564,12.90593366930769,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP Petrol Pump - Petrol Pump
+NH7
+Biotech Park, Chandapura
+Bengaluru, Karnataka 562107</description>
+			<LookAt>
+				<longitude>77.71867415777609</longitude>
+				<latitude>12.79659161212806</latitude>
+				<altitude>0</altitude>
+				<heading>3.349609114170006e-010</heading>
+				<tilt>0</tilt>
+				<range>1011.824970889032</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.71867415777609,12.79659161212806,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL</name>
+			<visibility>0</visibility>
+			<description>HP PETROL PUMP - MARUTHI SERVICE STATION - Petrol Pump
+HPC Dealer, Sy.no.232 SH-17 Babusabupalya,
+SH17
+Kengeri Hobli
+Bengaluru, Karnataka 560060</description>
+			<LookAt>
+				<longitude>77.46000943371635</longitude>
+				<latitude>12.88999659408023</latitude>
+				<altitude>0</altitude>
+				<heading>7.886898174506772e-009</heading>
+				<tilt>0</tilt>
+				<range>1086.186213792128</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.46000943371635,12.88999659408023,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

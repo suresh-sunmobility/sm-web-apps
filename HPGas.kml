@@ -1,0 +1,1400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>HP Gas.kml</name>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/H-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Folder>
+		<name>HP Gas</name>
+		<open>1</open>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>Abhishek Gas Agencies - Gas Shop
+No.1617, 1st Main, 1st Phase, 5th Stage
+B.E.M.L layout, Rajarajeshwari Nagar
+Remco Bhel Layout, Ideal Homes Twp, RR Nagar
+Bengaluru, Karnataka 560072
+
+080 2860 1399</description>
+			<LookAt>
+				<longitude>77.51512440000002</longitude>
+				<latitude>12.9204333</latitude>
+				<altitude>0</altitude>
+				<heading>2.862499213317165e-014</heading>
+				<tilt>0</tilt>
+				<range>1165.143694465934</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.51512440000002,12.9204333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>HP Gas - Aishwarya Enterprises - Gas Agency
+Shop No. # 3, Nagarabhavi
+Jnana Bharathi Main Road, Chandra Layout Extension
+4 Block, Teachers Colony, Chandra Layout
+Bengaluru, Karnataka 560072
+
+080 2318 0321</description>
+			<LookAt>
+				<longitude>77.5185172885009</longitude>
+				<latitude>12.9571065399423</latitude>
+				<altitude>0</altitude>
+				<heading>-1.197717379172124e-011</heading>
+				<tilt>0</tilt>
+				<range>1001.160714436278</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.5185172885009,12.9571065399423,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>AKSHAY GASES - Gas Logs Supplier
+260/1, Sampige Road, Near 17th Cross Next to Shekar Nursing Home
+Malleshwaram
+Malleshwaram West
+Bengaluru, Karnataka 560003
+
+080 2334 9013</description>
+			<LookAt>
+				<longitude>77.57087880000002</longitude>
+				<latitude>13.0074635</latitude>
+				<altitude>0</altitude>
+				<heading>-6.361109362927034e-015</heading>
+				<tilt>0</tilt>
+				<range>1164.73622196288</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.57087880000002,13.0074635,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>Virupaksha HP Gas - Gas Agency
+No.12, Khatha No: 153, Hormavu Post
+Ramamurthy Nagar Main Road
+Ashirvad Colony, Horamavu
+Bengaluru, Karnataka 560043
+
+080 2531 6533
+Opens at 10:00 AM</description>
+			<LookAt>
+				<longitude>77.66529435490213</longitude>
+				<latitude>13.02700196163194</latitude>
+				<altitude>0</altitude>
+				<heading>-1.809386997129799e-007</heading>
+				<tilt>0</tilt>
+				<range>1014.582557734142</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.66529435490214,13.02700196163195,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>Mahalakshmi HP Gas Agency - Gas Agency
+NO. 148, ARMSTRONG ROAD, PARALLEL TO KAMARAJ ROAD, SHIVAJINAGAR
+Bharati Nagar, Shivaji Nagar
+Bengaluru, Karnataka 560001
+
+080 4150 6789</description>
+			<LookAt>
+				<longitude>77.61077903257106</longitude>
+				<latitude>12.98591077836965</latitude>
+				<altitude>0</altitude>
+				<heading>-3.834230230984602e-010</heading>
+				<tilt>0</tilt>
+				<range>1005.103949593815</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.61077903257106,12.98591077836965,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>Karthik Agencies - Gas Agency
+596, Subramanya Temple Road, V V Puram
+Parvathipuram, Vishweshwarapura, Basavanagudi
+Bengaluru, Karnataka 560004
+
+080 2242 9769</description>
+			<LookAt>
+				<longitude>77.57638207848196</longitude>
+				<latitude>12.95302107440871</latitude>
+				<altitude>0</altitude>
+				<heading>-7.005370470590985e-010</heading>
+				<tilt>0</tilt>
+				<range>1007.235853702258</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.57638207848196,12.9530210744087,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>HP Gas Enterprises - Gas Agency
+22nd Main Rd
+Govindaraja Nagar Ward, Basaveshwara HBCS Layout, Vijaya Nagar
+Bengaluru, Karnataka 560040</description>
+			<LookAt>
+				<longitude>77.53354170699099</longitude>
+				<latitude>12.96539664245452</latitude>
+				<altitude>0</altitude>
+				<heading>4.440197460283735e-010</heading>
+				<tilt>0</tilt>
+				<range>1008.026059161692</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.53354170699099,12.96539664245452,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>Avinash Agency - Gas Agency
+8, 8th Cross, Muneshwar Block
+Geleyara Balaga Layout, Mahalakshmipuram
+AGB Layout, Stage 2, Maruthi Nagar
+Bengaluru, Karnataka 560086
+
+080 2349 4700</description>
+			<LookAt>
+				<longitude>77.54073900000005</longitude>
+				<latitude>13.008004</latitude>
+				<altitude>0</altitude>
+				<heading>1.987846675914698e-015</heading>
+				<tilt>0</tilt>
+				<range>1000.000000001886</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.54073900000005,13.008004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>Trupti Enterprises- HP Gas - Gas Agency
+121, Devasandra Main Rd
+Kuvempu Layout, Ist Block, Thippiah Layout, Krishnarajapura
+Bengaluru, Karnataka 560036
+
+080 2561 5666</description>
+			<LookAt>
+				<longitude>77.70407010495551</longitude>
+				<latitude>13.00481032812415</latitude>
+				<altitude>0</altitude>
+				<heading>6.262786490642939e-010</heading>
+				<tilt>0</tilt>
+				<range>1124.241252453212</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.70407010495551,13.00481032812416,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>Sri Ram Gas Agencies &amp; Lubricants - Gas Agency
+N S Ravi Building, Kaggadasapura Main Road, Near-SCT College
+Vignana Nagar
+Vignan Nagar, Doddanekkundi
+Bengaluru, Karnataka 560075
+
+097415 22212</description>
+			<LookAt>
+				<longitude>77.67826719414994</longitude>
+				<latitude>12.97288324019264</latitude>
+				<altitude>0</altitude>
+				<heading>-5.549392051284025e-011</heading>
+				<tilt>0</tilt>
+				<range>1001.57776975626</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.67826719414994,12.97288324019263,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>Manrath Enterprises - HP Gas - Gas Agency
+No. 7 &amp; 8, 3rd Main, 2nd Stage, Near Domlur Club, Domlur
+Stage 2, Domlur
+Bengaluru, Karnataka 560071
+
+080 2535 2033</description>
+			<LookAt>
+				<longitude>77.63685321665503</longitude>
+				<latitude>12.96540312285775</latitude>
+				<altitude>0</altitude>
+				<heading>-4.164125313932702e-010</heading>
+				<tilt>0</tilt>
+				<range>1009.961373443498</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.63685321665503,12.96540312285775,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>HP Gas Ideal Enterprises - Gas Agency
+375, 1st Main, Koramangala, 7th Block, Near Axis Bank
+7th Block, Koramangala
+Bengaluru, Karnataka 560095
+
+080 2570 2319</description>
+			<LookAt>
+				<longitude>77.61428510000003</longitude>
+				<latitude>12.9357551</latitude>
+				<altitude>0</altitude>
+				<heading>1.272221872585407e-014</heading>
+				<tilt>0</tilt>
+				<range>1000.000000003032</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.61428510000005,12.9357551,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>Amritha Gases - Gas Agency
+1,P.W.D.Main Road, B.Naranapura Extension
+Anjappa Layout, Madavapura post
+Anjappa Layout, B Narayanapura, Mahadevapura
+Bengaluru, Karnataka 560016
+
+094806 22723</description>
+			<LookAt>
+				<longitude>77.68012135312551</longitude>
+				<latitude>12.9908369982139</latitude>
+				<altitude>0</altitude>
+				<heading>-1.946800425042406e-009</heading>
+				<tilt>0</tilt>
+				<range>1013.432779596024</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.68012135312551,12.9908369982139,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>Danish Gas Enterprises - HP Gas - Gas Agency
+142/2, Byreshwara Layout, Hennur Bande, Kalyan Nagar
+Punappa Layout, Hennur Gardens
+Bengaluru, Karnataka 560043
+
+080 2544 7811</description>
+			<LookAt>
+				<longitude>77.64012997458046</longitude>
+				<latitude>13.03683951311559</latitude>
+				<altitude>0</altitude>
+				<heading>1.092196514074543e-009</heading>
+				<tilt>0</tilt>
+				<range>1008.055194045359</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.64012997458046,13.03683951311559,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>Vinay Enterprises LPG Godown - Gas Agency
+Jayanthi Nagar Extension
+Bengaluru, Karnataka 560043
+
+080 2591 4858</description>
+			<LookAt>
+				<longitude>77.66759053102248</longitude>
+				<latitude>13.02926446041841</latitude>
+				<altitude>0</altitude>
+				<heading>1.133048751111267e-010</heading>
+				<tilt>0</tilt>
+				<range>1003.623387168184</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.66759053102248,13.02926446041841,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>Vinay Enterprises Gas Agency - Gas Agency
+No. 4
+55A, VST Rd
+Lingarajapura Village, Lingarajapuram
+Bengaluru, Karnataka 560084
+
+080 2547 1915</description>
+			<LookAt>
+				<longitude>77.62392268048404</longitude>
+				<latitude>13.00867536229098</latitude>
+				<altitude>0</altitude>
+				<heading>-1.808053895464917e-010</heading>
+				<tilt>0</tilt>
+				<range>1003.747877267885</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.62392268048404,13.00867536229098,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>HP Gas Shop - Gas Agency
+Rajeshwari Nagar, Chamundi Nagar, Peenya Industrial Area
+Rajeshwari Nagar, Peenya
+Bengaluru, Karnataka 560058
+
+096869 68588</description>
+			<LookAt>
+				<longitude>77.52025588922132</longitude>
+				<latitude>13.01368862314615</latitude>
+				<altitude>0</altitude>
+				<heading>7.13533588626229e-011</heading>
+				<tilt>0</tilt>
+				<range>1007.418089920748</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.5202558892213,13.01368862314615,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>S A Gas Agency - Gas Agency
+ITI Employess Housing Colony, B Narayanapura, Krishnarajapura
+Bengaluru, Karnataka 560016</description>
+			<LookAt>
+				<longitude>77.6764673</longitude>
+				<latitude>12.9980267</latitude>
+				<altitude>0</altitude>
+				<heading>1.232464939067112e-014</heading>
+				<tilt>0</tilt>
+				<range>999.999999998628</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.6764673,12.9980267,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>Vinay Gas Agency - Gas Agency
+Opposite Union Bank Of India, Old Madras Road
+K.R Puram
+Kalpatharu Layout, Akshaya Nagar 2nd Block, Raghavendra Extension, Ramamurthy Nagar
+Bengaluru, Karnataka 560016
+
+080 2851 2736</description>
+			<LookAt>
+				<longitude>77.68039689999998</longitude>
+				<latitude>13.01659290000001</latitude>
+				<altitude>0</altitude>
+				<heading>-1.113194138512231e-014</heading>
+				<tilt>0</tilt>
+				<range>999.9999999977465</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.68039689999998,13.0165929,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>Sree Gas Agency - Gas Agency
+#20, 4th Cross, Opposite Ganesha temple, IV Cross, BEML Main Road
+BEML Road
+HAL 3rd Stage, Bhoomi Reddy Colony, New Tippasandra
+Bengaluru, Karnataka 560075
+
+099455 93390</description>
+			<LookAt>
+				<longitude>77.65371818229413</longitude>
+				<latitude>12.9724697479458</latitude>
+				<altitude>0</altitude>
+				<heading>-7.042984505392645e-010</heading>
+				<tilt>0</tilt>
+				<range>1007.807126586783</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.65371818229413,12.9724697479458,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>HP Gas Agency: Murali Enterprises - Gas Agency
+New 27, Old No.52, Ground Floor, 5th Cross, Opp Kalamandir, Ramanjaneya Layout, Marathahalli Extn
+Bengaluru Central
+Aswath Nagar, Marathahalli
+Bengaluru, Karnataka 560037
+
+080 2540 0035</description>
+			<LookAt>
+				<longitude>77.7004543484435</longitude>
+				<latitude>12.95949613605319</latitude>
+				<altitude>0</altitude>
+				<heading>3.080367208997415e-010</heading>
+				<tilt>0</tilt>
+				<range>1006.569997448505</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.7004543484435,12.95949613605319,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>HP Gas Agency - Maheshwary Agencies - Gas Agency
+Bangalore - Mysore Road
+Byatarayanapura, Srinagar, Azad Nagar
+Bengaluru, Karnataka 560026
+
+080 2660 7331</description>
+			<LookAt>
+				<longitude>77.54577363446376</longitude>
+				<latitude>12.95190403114147</latitude>
+				<altitude>0</altitude>
+				<heading>-4.31207676632768e-011</heading>
+				<tilt>0</tilt>
+				<range>1001.820277219732</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.54577363446376,12.95190403114147,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>Megha Gas Agency - Gas Agency
+7th Main Rd
+Chowdeswari Layout, Banswadi
+HRBR Layout 1st Block, Chowdeswari Layout, Subbannayapalya, Banswadi
+Bengaluru, Karnataka 560043
+
+080 2591 5529</description>
+			<LookAt>
+				<longitude>77.64314309999999</longitude>
+				<latitude>13.011064</latitude>
+				<altitude>0</altitude>
+				<heading>-1.351735739621995e-014</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000371</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.64314309999999,13.011064,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>Kanishka Gas Agency - Gas Agency
+326, Bellary Rd
+Ganga Nagar Layout, Ganga Nagar
+Bengaluru, Karnataka 560032
+
+080 2333 2211</description>
+			<LookAt>
+				<longitude>77.5853812</longitude>
+				<latitude>13.0252627</latitude>
+				<altitude>0</altitude>
+				<heading>3.975693351829395e-015</heading>
+				<tilt>0</tilt>
+				<range>999.9999999975663</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.5853812,13.0252627,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>Krishan Gas Agency - Gas Agency
+128, 19th Cross Rd
+CHBS Layout, Banashankari Stage II, Vijayanagar
+CHBS Layout, MC Layout, Vijaya Nagar
+Bengaluru, Karnataka 560040
+
+080 4127 0360</description>
+			<LookAt>
+				<longitude>77.53755170251219</longitude>
+				<latitude>12.97513090014933</latitude>
+				<altitude>0</altitude>
+				<heading>-1.705572447934811e-013</heading>
+				<tilt>0</tilt>
+				<range>1000.182484322178</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.53755170251218,12.97513090014933,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>Shiva Shakthi Gas Agency - Gas Agency
+Sharadha Colony, 3rd Stage
+4th Block, Basaveshwara Nagar
+Sharada Colony, KHB Colony, Basaveshwar Nagar
+Banglore, Karnataka 560079
+
+080 2328 2455</description>
+			<LookAt>
+				<longitude>77.5331459555243</longitude>
+				<latitude>12.98893410310481</latitude>
+				<altitude>0</altitude>
+				<heading>-1.391659652261065e-010</heading>
+				<tilt>0</tilt>
+				<range>1006.840017467119</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.5331459555243,12.98893410310481,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>HP Gas: Shanthi Agencies - Gas Agency
+No. 20, 1st A Cross, Behind KFC, Vidya Nagar, Bommasandra
+Electronic City
+Bengaluru, Karnataka 560099
+
+080 2783 6604</description>
+			<LookAt>
+				<longitude>77.68545079841597</longitude>
+				<latitude>12.82408790998466</latitude>
+				<altitude>0</altitude>
+				<heading>1.499456601802567e-010</heading>
+				<tilt>0</tilt>
+				<range>1006.633514408673</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.68545079841597,12.82408790998466,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>HP Gas - Gas Agency
+27, 14th Main Rd
+Sector 7, HSR Layout
+Bengaluru, Karnataka 560102
+</description>
+			<LookAt>
+				<longitude>77.6367689347945</longitude>
+				<latitude>12.90681906718131</latitude>
+				<altitude>0</altitude>
+				<heading>2.152666625462008e-007</heading>
+				<tilt>0</tilt>
+				<range>1003.402694356681</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.63676893479449,12.90681906718131,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>HP Kamala Gas Agency - Gas Agency
+442, 11th Cross, M.S.Ramaiah Layout, Nagasundra Post, T.Dasarahalli
+Havanur Layout, Bagalakunte
+Bengaluru, Karnataka 560073
+
+080 2839 3732</description>
+			<LookAt>
+				<longitude>77.50299874709087</longitude>
+				<latitude>13.04862966163097</latitude>
+				<altitude>0</altitude>
+				<heading>2.836000024419216e-009</heading>
+				<tilt>0</tilt>
+				<range>1017.953243851651</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.50299874709087,13.04862966163097,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP  Gas</name>
+			<description>Sugam Enterprises HP GAS Agency - Gas Agency
+1st block, 56, 1st Main Road
+Vasantha Vallabha Nagar, Subramanyapura Post
+Seenappa Layout, Vasanthapura
+Bengaluru, Karnataka 560061
+
+080 2666 9957</description>
+			<LookAt>
+				<longitude>77.5541188428688</longitude>
+				<latitude>12.89063273221219</latitude>
+				<altitude>0</altitude>
+				<heading>-3.404871251760434e-010</heading>
+				<tilt>0</tilt>
+				<range>1004.784958985355</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.5541188428688,12.89063273221219,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>HP Gas S L V Enterprises - Gas Agency
+No 1, Bottigere, Near BBMP Office, Bannerghatta Main Road
+Jyothi Nagar, Bohra Layout, Gottigere
+Jyothi Nagar, Bohra Layout, Gottigere
+Bengaluru, Karnataka 560083
+
+080 2578 0910</description>
+			<LookAt>
+				<longitude>77.58914929999999</longitude>
+				<latitude>12.8579859</latitude>
+				<altitude>0</altitude>
+				<heading>9.144094709207607e-015</heading>
+				<tilt>0</tilt>
+				<range>999.9999999987872</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.58914929999999,12.8579859,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>HP: Mahhan Enterprises - Gas Agency
+60/4, 3rd Main, 4th Cross
+KSRTC Layout, Uttarahalli
+Vajpayee Nagar, KSRTC Layout, Chikkalasandra
+Bengaluru, Karnataka 560061
+
+080 2639 4345</description>
+			<LookAt>
+				<longitude>77.54846035010246</longitude>
+				<latitude>12.91073190543928</latitude>
+				<altitude>0</altitude>
+				<heading>7.089138329514032e-011</heading>
+				<tilt>0</tilt>
+				<range>1001.861449946575</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.54846035010246,12.91073190543928,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>Sri Bimmalingeshwara Gas Agency - HP Gas - Gas Agency
+60 Feet Road, BEL 2nd Stage
+Magadi Road
+IInd Phase, Bharat Nagar
+Bengaluru, Karnataka 560091
+
+080 2328 8973</description>
+			<LookAt>
+				<longitude>77.47860597597533</longitude>
+				<latitude>12.98168666368362</latitude>
+				<altitude>0</altitude>
+				<heading>2.52987680472971e-010</heading>
+				<tilt>0</tilt>
+				<range>1010.00129190866</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.47860597597534,12.98168666368362,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>Dhruva HP Gas Agency - Gas Agency
+Gapalapura, Hessaragatta Gollahally
+Main Road
+Aivarkhandpur
+Bengaluru, Karnataka 560089
+
+091480 24468</description>
+			<LookAt>
+				<longitude>77.48684923913481</longitude>
+				<latitude>13.14274347066858</latitude>
+				<altitude>0</altitude>
+				<heading>5.880209495089749e-011</heading>
+				<tilt>0</tilt>
+				<range>1005.934968371745</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.48684923913481,13.14274347066858,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>Maruthi HP Gas Co. - Gas Agency
+HSR Layout, Sector 6
+Sector 6, HSR Layout
+Bengaluru, Karnataka 560102
+
+080 2572 1933</description>
+			<LookAt>
+				<longitude>77.63551663413257</longitude>
+				<latitude>12.91401200241245</latitude>
+				<altitude>0</altitude>
+				<heading>2.798419783011049e-009</heading>
+				<tilt>0</tilt>
+				<range>1037.432724449758</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.63551663413256,12.91401200241245,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>Nihal HP Gas C0 - Gas Agency
+SFS 208 Colony, Yelahanka New Town
+Bengaluru, Karnataka 560064
+
+099450 99191</description>
+			<LookAt>
+				<longitude>77.5714389367881</longitude>
+				<latitude>13.10106789682482</latitude>
+				<altitude>0</altitude>
+				<heading>2.618608316802515e-009</heading>
+				<tilt>0</tilt>
+				<range>1043.06640750877</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.57143893678811,13.10106789682482,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>Shri Manjunath HP Gas Agency - Gas Agency
+22, Outer Ring Rd
+JP Nagar 4th Phase, Dollar Layout, Phase 4, JP Nagar
+Bengaluru, Karnataka 560076
+
+080 2659 7105</description>
+			<LookAt>
+				<longitude>77.5973541889649</longitude>
+				<latitude>12.90607658306131</latitude>
+				<altitude>0</altitude>
+				<heading>1.929960580712062e-011</heading>
+				<tilt>0</tilt>
+				<range>1004.560243355331</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.5973541889649,12.90607658306132,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>Indu HP Gas Agency - Gas Agency
+2nd Main Road,8th Cross (Near Vegetable Market)
+Yelahanka
+Bengaluru, Karnataka 560064
+
+098452 12518</description>
+			<LookAt>
+				<longitude>77.59993333004188</longitude>
+				<latitude>13.0969131120459</latitude>
+				<altitude>0</altitude>
+				<heading>6.243941704155267e-010</heading>
+				<tilt>0</tilt>
+				<range>1009.871558125784</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.59993333004189,13.0969131120459,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>Sri Ganesh Gas Agency - Gas Agency
+Nanjappa Building , Magadi Main Road
+Muddina Palya Main Road
+Anjana Nagar, Bedarahalli
+Bengaluru, Karnataka 560091
+
+095353 52509</description>
+			<LookAt>
+				<longitude>77.48787738079368</longitude>
+				<latitude>12.98403844322255</latitude>
+				<altitude>0</altitude>
+				<heading>-8.372631690321213e-009</heading>
+				<tilt>0</tilt>
+				<range>1031.63308978328</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.48787738079368,12.98403844322255,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>Ram Agencies - Gas Agency
+Shop No. 717/34, 3rd Block, 42nd Cross, 12th Main Road, 80 Feet Rd
+2nd Block, Ramchandrapuram, Rajaji Nagar
+Bengaluru, Karnataka 560010
+
+080 2315 1245</description>
+			<LookAt>
+				<longitude>77.55193425751341</longitude>
+				<latitude>12.99426145061579</latitude>
+				<altitude>0</altitude>
+				<heading>-3.156275122163894e-010</heading>
+				<tilt>0</tilt>
+				<range>1008.955693396099</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.55193425751341,12.99426145061579,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>HP Gas-G.Sreenivasa Murthy &amp; Sons - Gas Agency
+10/1,4,5th Cross
+Link Rd
+Malleshwaram West
+Bengaluru, Karnataka 560003
+
+080 2236 0424</description>
+			<LookAt>
+				<longitude>77.57321163940694</longitude>
+				<latitude>12.99648060473608</latitude>
+				<altitude>0</altitude>
+				<heading>-3.829603716631078e-009</heading>
+				<tilt>0</tilt>
+				<range>1018.052476012726</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.57321163940695,12.99648060473608,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>S N HP Gas Enterprises - Gas Agency
+No.31, BHCS Layout, Opp.Gopalan Innovation Mall,
+Bannerghatta Main Rd
+BTM 2nd Stage, BHBCS Layout, Stage 2, BTM 2nd Stage
+Bengaluru, Karnataka 560076
+
+080 2668 9555</description>
+			<LookAt>
+				<longitude>77.60019750665521</longitude>
+				<latitude>12.91527123138246</latitude>
+				<altitude>0</altitude>
+				<heading>3.99415170092327e-009</heading>
+				<tilt>0</tilt>
+				<range>1027.85350428987</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.60019750665521,12.91527123138246,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>Sri Venkateswara Enterprises - Gas Agency
+8, 8th B Cross Rd
+Bahubali Nagar, Jalahalli
+Bengaluru, Karnataka 560013
+
+080 2236 0412</description>
+			<LookAt>
+				<longitude>77.55333472643051</longitude>
+				<latitude>13.04418355219493</latitude>
+				<altitude>0</altitude>
+				<heading>1.069654730339006e-009</heading>
+				<tilt>0</tilt>
+				<range>1011.974352660087</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.55333472643051,13.04418355219493,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>Sri Venkateswara Enterprises - Gas Agency
+8, 8th B Cross Rd
+Bahubali Nagar, Jalahalli
+Bengaluru, Karnataka 560013
+
+080 2236 0412</description>
+			<LookAt>
+				<longitude>77.55333472643051</longitude>
+				<latitude>13.04418355219493</latitude>
+				<altitude>0</altitude>
+				<heading>1.069654730339006e-009</heading>
+				<tilt>0</tilt>
+				<range>1011.974352660087</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.55333472643051,13.04418355219493,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>Mohan Gas Agency - Gas Agency
+341, Tumkur Road, Peenya Ist Stage
+Peenya Ist Stage
+Kalika Nagar, Ragavendra Nagar
+Bengaluru, Karnataka 560058
+
+080 2839 3927
+</description>
+			<LookAt>
+				<longitude>77.49959225220066</longitude>
+				<latitude>13.00851133465246</latitude>
+				<altitude>0</altitude>
+				<heading>-1.666173326818181e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.803103799416</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.49959225220066,13.00851133465247,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>Mathru Gas Company - Gas Agency
+71/1, Nagashetty Halli, Sanjay Main Nagar Road, Rmv 2nd Stage
+AECS Layout, R.M.V. 2nd Stage
+Bengaluru, Karnataka 560094
+
+080 2341 7243</description>
+			<LookAt>
+				<longitude>77.57335357973184</longitude>
+				<latitude>13.04017712903333</latitude>
+				<altitude>0</altitude>
+				<heading>-4.41842219022643e-009</heading>
+				<tilt>0</tilt>
+				<range>1024.998940053846</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.5733535797318,13.04017712903334,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>NARAYANSONS HP GAS - Gas Agency
+Taluka Magadi
+Manchanabele, Karnataka 562128
+
+098456 06080</description>
+			<LookAt>
+				<longitude>77.33817710506091</longitude>
+				<latitude>12.86326917905828</latitude>
+				<altitude>0</altitude>
+				<heading>-1.664245115542545e-010</heading>
+				<tilt>0</tilt>
+				<range>1006.478001486212</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.33817710506089,12.86326917905828,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>Hindustan gas agency - Gas Agency
+#20 main road kenchanahalli,6th cross rajarajeshwari nagar
+Kenchenhalli, RR Nagar
+Bengaluru, Karnataka 560098
+
+080884 99473</description>
+			<LookAt>
+				<longitude>77.50763699832926</longitude>
+				<latitude>12.92905599943168</latitude>
+				<altitude>0</altitude>
+				<heading>-9.768278565444825e-013</heading>
+				<tilt>0</tilt>
+				<range>1000.433315046072</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.50763699832926,12.92905599943167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>Lalitha Gas Agency - Gas Agency
+588, 2nd Main,, Kengeri Main Road
+Stage I, Kengeri Satellite Town
+Stage I, Kengeri Satellite Town
+Bengaluru, Karnataka 560060
+
+080 2848 4419</description>
+			<LookAt>
+				<longitude>77.48018478615934</longitude>
+				<latitude>12.91269145359022</latitude>
+				<altitude>0</altitude>
+				<heading>-1.734209367148038e-009</heading>
+				<tilt>0</tilt>
+				<range>1007.239177636556</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.48018478615933,12.91269145359022,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>Soundarya Agencies - Gas Agency
+Shop No. 3, 14th Cross, Road,, Magadi Road
+Agrahara Dasarahalli
+Asthagrama Layout
+Bengaluru, Karnataka 560079
+
+080 2350 8561</description>
+			<LookAt>
+				<longitude>77.52975675785179</longitude>
+				<latitude>12.98691764900163</latitude>
+				<altitude>0</altitude>
+				<heading>-2.819663105297878e-009</heading>
+				<tilt>0</tilt>
+				<range>1017.403378811957</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.52975675785177,12.98691764900163,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>Ashirwad Enterp Hp Gas Company - Gas Agency
+Millers Road
+Nandi Durga Road Extension, Jayamahal
+Nandi Durga Road Extension, Jayamahal
+Bengaluru, Karnataka 560046
+
+080 2222 6666</description>
+			<LookAt>
+				<longitude>77.59671404613047</longitude>
+				<latitude>12.99633831256816</latitude>
+				<altitude>0</altitude>
+				<heading>-2.324126722385836e-010</heading>
+				<tilt>0</tilt>
+				<range>1008.03796361207</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.59671404613047,12.99633831256816,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>Shakthi Gas Distributors
+
+Shakthi Gas Distributors - Gas Agency
+Rajapalya,
+Whitefield Main Rd
+Thigalarapalya, Hoodi
+Bengaluru, Karnataka 560067
+
+080 2841 0216</description>
+			<LookAt>
+				<longitude>77.72366048271383</longitude>
+				<latitude>12.99054199848373</latitude>
+				<altitude>0</altitude>
+				<heading>5.667406532739729e-010</heading>
+				<tilt>0</tilt>
+				<range>1026.55850232248</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.72366048271383,12.99054199848373,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>Sri Ganesh HP Gas Agency - Gas Agency
+Door No. 197/1112, Channasandra Main Road
+Kadugodi, Opposite FCI
+V S Reddy Colony, Kadugodi
+Bengaluru, Karnataka 560067
+
+080 2272 8935</description>
+			<LookAt>
+				<longitude>77.76620597886245</longitude>
+				<latitude>12.98995282090886</latitude>
+				<altitude>0</altitude>
+				<heading>9.548243816887826e-010</heading>
+				<tilt>0</tilt>
+				<range>1037.665722508174</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.76620597886246,12.98995282090886,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>HP Gas Maheshwari Agencies - Gas Agency
+258, 3rd Main Road
+Chamrajpet
+Bengaluru, Karnataka 560018
+
+080 2667 2671</description>
+			<LookAt>
+				<longitude>77.56884199894166</longitude>
+				<latitude>12.9588837628053</latitude>
+				<altitude>0</altitude>
+				<heading>-1.109691552669269e-010</heading>
+				<tilt>0</tilt>
+				<range>1011.755739252665</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.56884199894168,12.9588837628053,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>HP Gas
+
+HP Gas Maheshwari Agencies - Gas Agency
+258, 3rd Main Road
+Chamrajpet
+Bengaluru, Karnataka 560018
+
+080 2667 2671</description>
+			<LookAt>
+				<longitude>77.56884199894166</longitude>
+				<latitude>12.9588837628053</latitude>
+				<altitude>0</altitude>
+				<heading>-1.109687576975917e-010</heading>
+				<tilt>0</tilt>
+				<range>1011.755739252665</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.56884199894168,12.9588837628053,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Gas</name>
+			<description>Madhuramma Gas Enterprises - Gas Agency
+No. 1 &amp; 2, Behind Hotel Athiti Sagar, R. K. Layout
+Ambalipura - Sarjapur Road
+Sarjapur
+Bengaluru, Karnataka 562125
+
+096113 33312</description>
+			<LookAt>
+				<longitude>77.78144917577944</longitude>
+				<latitude>12.8609209172233</latitude>
+				<altitude>0</altitude>
+				<heading>2.126180130952931e-009</heading>
+				<tilt>0</tilt>
+				<range>1037.699047609815</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.78144917577944,12.8609209172233,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

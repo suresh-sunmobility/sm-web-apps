@@ -1,0 +1,2201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>IOCL Updated.kml</name>
+	<Style id="s_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>IOCL</name>
+		<open>1</open>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Corporation Limited - Oil &amp; Natural Gas Company
+31 , II Ranka Chambers
+Cunningham Rd
+Vasanth Nagar
+Bengaluru, Karnataka 560052</description>
+			<LookAt>
+				<longitude>77.59603320000001</longitude>
+				<latitude>12.9855143</latitude>
+				<altitude>0</altitude>
+				<heading>-1.590277340731758e-015</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000195</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.59603320000001,12.9855143,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>IOC - SMK Petro Enterprises And ICICI LOMBARD Insurance - Petrol Pump
+171, Matadahalli Extension, Bangalore Urban
+Krishnappa Block, RT Nagar
+Bengaluru, Karnataka 560032</description>
+			<LookAt>
+				<longitude>77.59194999999998</longitude>
+				<latitude>13.018517</latitude>
+				<altitude>0</altitude>
+				<heading>8.348956038841727e-015</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000543</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.59194999999998,13.018517,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>IOCL Petrol Pump
+
+IOCL Petrol Pump - Petrol Pump
+Bannerghatta Main Rd
+Dollars Colony, Phase 4, JP Nagar
+Bengaluru, Karnataka 560078</description>
+			<LookAt>
+				<longitude>77.60128915871371</longitude>
+				<latitude>12.90428537022469</latitude>
+				<altitude>0</altitude>
+				<heading>3.488130221934446e-010</heading>
+				<tilt>0</tilt>
+				<range>1013.935476358409</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.60128915871373,12.90428537022469,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Pump - Petrol Pump
+Sector 4, HSR Layout Ring Road
+Bangalore Urban
+Agara Village, 1st Sector, HSR Layout
+Bengaluru, Karnataka 560034</description>
+			<LookAt>
+				<longitude>77.64478977751935</longitude>
+				<latitude>12.9214207306739</latitude>
+				<altitude>0</altitude>
+				<heading>-4.943190256077135e-010</heading>
+				<tilt>0</tilt>
+				<range>1007.37098004689</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.64478977751935,12.9214207306739,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>IOCL Petrol Pump - Petrol Pump
+SH 35
+Sarjapur
+Bengaluru, Karnataka 562125</description>
+			<LookAt>
+				<longitude>77.77998364731002</longitude>
+				<latitude>12.86098321297694</latitude>
+				<altitude>0</altitude>
+				<heading>1.367392020041499e-010</heading>
+				<tilt>0</tilt>
+				<range>1003.195245769403</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.77998364731002,12.86098321297694,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil - Petrol Pump
+Service Rd
+MS Ramaiah North City, Manayata Tech Park, Nagavara
+Bengaluru, Karnataka 560045</description>
+			<LookAt>
+				<longitude>77.62055856472283</longitude>
+				<latitude>13.04139455935486</latitude>
+				<altitude>0</altitude>
+				<heading>4.62793129063446e-009</heading>
+				<tilt>0</tilt>
+				<range>1050.646035476001</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.62055856472283,13.04139455935486,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Sai Sri Petroleum IOCL - Petrol Pump
+Chandapura Dommasandra Road
+Gopasandra
+Bengaluru, Karnataka 560099</description>
+			<LookAt>
+				<longitude>77.73038487895244</longitude>
+				<latitude>12.85312778226639</latitude>
+				<altitude>0</altitude>
+				<heading>2.898344064577259e-010</heading>
+				<tilt>0</tilt>
+				<range>1006.206007756078</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.73038487895244,12.85312778226639,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Pump - Petrol Pump
+Nrupathunga Rd
+Ambedkar Veedhi, Sampangi Rama Nagar
+Bengaluru, Karnataka 560009</description>
+			<LookAt>
+				<longitude>77.58660608660624</longitude>
+				<latitude>12.97207058401235</latitude>
+				<altitude>0</altitude>
+				<heading>1.05065846993463e-009</heading>
+				<tilt>0</tilt>
+				<range>1023.175901450332</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.58660608660625,12.97207058401235,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Sri Balaji Petroleums - Petrol Pump
+New BEL Rd
+AG&apos;s Layout, Mathikere
+Bengaluru, Karnataka 560094</description>
+			<LookAt>
+				<longitude>77.56982740000369</longitude>
+				<latitude>13.03242789998672</latitude>
+				<altitude>0</altitude>
+				<heading>1.188732312196989e-013</heading>
+				<tilt>44.86525862491078</tilt>
+				<range>1000.004123373453</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.56982740000369,13.03242789998673,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Corporation Petrol Bunk Vayuputra Service Station - Petrol Pump
+Kogilu Village
+SH 104
+Srinivaspur
+Bengaluru, Karnataka 560064</description>
+			<LookAt>
+				<longitude>77.61990010000001</longitude>
+				<latitude>13.1041976</latitude>
+				<altitude>0</altitude>
+				<heading>-1.987846675914698e-015</heading>
+				<tilt>0</tilt>
+				<range>999.9999999994139</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.61990010000002,13.1041976,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Corporation - Rachana Services . - Petrol Pump
+No. 269
+3, Mysore Rd
+Kasthuriba Nagar, Azad Nagar
+Bengaluru, Karnataka 560026</description>
+			<LookAt>
+				<longitude>77.54878806447209</longitude>
+				<latitude>12.95641913401969</latitude>
+				<altitude>0</altitude>
+				<heading>-8.532633071696249e-011</heading>
+				<tilt>0</tilt>
+				<range>1006.20494507834</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.54878806447209,12.95641913401969,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Pump - Petrol Pump
+Kadubeesanahalli
+Varthur Hobli
+Kadubeesanahalli, Panathur
+Bengaluru, Karnataka 560103</description>
+			<LookAt>
+				<longitude>77.69588931802241</longitude>
+				<latitude>12.94109588145941</latitude>
+				<altitude>0</altitude>
+				<heading>1.073003854418587e-010</heading>
+				<tilt>0</tilt>
+				<range>1005.977458750728</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.69588931802241,12.94109588145941,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil: Shiva Shakti Service Station - Petrol Pump
+Outer Ring Rd
+Laxmi Sagar Layout, Mahadevapura
+Bengaluru, Karnataka 560048</description>
+			<LookAt>
+				<longitude>77.69038799999998</longitude>
+				<latitude>12.987126</latitude>
+				<altitude>0</altitude>
+				<heading>-3.975693351829396e-015</heading>
+				<tilt>0</tilt>
+				<range>999.9999999993084</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.69038799999998,12.987126,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Pump - Petrol Pump
+Old HAL Airport Road
+Kodihalli
+Domlur
+Bengaluru, Karnataka 560008</description>
+			<LookAt>
+				<longitude>77.64575049999999</longitude>
+				<latitude>12.9599154</latitude>
+				<altitude>0</altitude>
+				<heading>6.758678698109972e-015</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000404</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.64575049999998,12.9599154,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Corporation Limited - Petrol Pump
+40/6, Outer Ring Road, Nagadevanahalli
+Mariyappana Palya, Gnana Bharathi
+Bengaluru, Karnataka 560056</description>
+			<LookAt>
+				<longitude>77.49634998510231</longitude>
+				<latitude>12.94623629091707</latitude>
+				<altitude>0</altitude>
+				<heading>-2.553786624547613e-010</heading>
+				<tilt>0</tilt>
+				<range>1010.86164959226</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.49634998510231,12.94623629091707,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Pump - Petrol Pump
+Service Road
+Green Glen Layout, Bellandur
+Green Glen Layout, Bellandur
+Bengaluru, Karnataka 560103</description>
+			<LookAt>
+				<longitude>77.67002278535523</longitude>
+				<latitude>12.92326230784822</latitude>
+				<altitude>0</altitude>
+				<heading>-6.31316250110397e-010</heading>
+				<tilt>0</tilt>
+				<range>1004.07347188672</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.67002278535522,12.92326230784822,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil - Vasantha Service Station - Petrol Pump
+Dodda Banaswadi Main Rd
+Jai Jawan Nagar, Subbaiyapalya, Banswadi
+Bengaluru, Karnataka 560043</description>
+			<LookAt>
+				<longitude>77.64122225804927</longitude>
+				<latitude>13.00754073864154</latitude>
+				<altitude>0</altitude>
+				<heading>7.759456131405874e-010</heading>
+				<tilt>0</tilt>
+				<range>1048.299055947312</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.64122225804927,13.00754073864154,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Pump
+
+Indian Oil Petrol Pump - Petrol Pump
+Jakkasandra Extension, Koramangala
+Bengaluru, Karnataka 560102</description>
+			<LookAt>
+				<longitude>77.65043595761708</longitude>
+				<latitude>12.92476390133196</latitude>
+				<altitude>0</altitude>
+				<heading>1.079118470793701e-010</heading>
+				<tilt>0</tilt>
+				<range>1005.747053330513</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.65043595761708,12.92476390133196,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil - Petrol Pump
+Hudi, Seetharampalya, Whitefield
+Bengaluru, Karnataka 560048</description>
+			<LookAt>
+				<longitude>77.71124259348079</longitude>
+				<latitude>12.97831482271677</latitude>
+				<altitude>0</altitude>
+				<heading>-2.928174486934705e-009</heading>
+				<tilt>0</tilt>
+				<range>1017.080834196455</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.71124259348079,12.97831482271677,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>IOCL Rajshree petroleum - Petrol Pump
+560076
+Vijaya Bank Layout, Bommanahalli
+Bengaluru, Karnataka 560076</description>
+			<LookAt>
+				<longitude>77.61134613040835</longitude>
+				<latitude>12.8917862060439</latitude>
+				<altitude>0</altitude>
+				<heading>-7.208691404296893e-010</heading>
+				<tilt>0</tilt>
+				<range>1007.331011941248</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.61134613040835,12.8917862060439,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Pump - Petrol Pump
+Shampura Main Rd
+Shampura, Kadugondanahalli
+Bengaluru, Karnataka 560045</description>
+			<LookAt>
+				<longitude>77.61503068857657</longitude>
+				<latitude>13.02676430593917</latitude>
+				<altitude>0</altitude>
+				<heading>2.426339015476023e-009</heading>
+				<tilt>0</tilt>
+				<range>1069.053495931065</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.61503068857655,13.02676430593917,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Pump - Petrol Pump
+Mandur
+Bengaluru, Karnataka 562129</description>
+			<LookAt>
+				<longitude>77.73735410000001</longitude>
+				<latitude>13.0786292</latitude>
+				<altitude>0</altitude>
+				<heading>5.963540027744093e-015</heading>
+				<tilt>0</tilt>
+				<range>999.9999999989166</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.73735410000001,13.0786292,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>sri nandi kisan seva kendra iocl petrol station dealer - Petrol Pump
+no 249\4 Sri Nandi KSK
+budigere Village Devanahalli Taluk
+Naganayakanahalli
+Bengaluru, Karnataka 562129</description>
+			<LookAt>
+				<longitude>77.74663680876573</longitude>
+				<latitude>13.1342725646534</latitude>
+				<altitude>0</altitude>
+				<heading>-9.428893502465909e-010</heading>
+				<tilt>0</tilt>
+				<range>1016.991367853098</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.74663680876574,13.1342725646534,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Pump - Petrol Pump
+Jeevan Bima Nagar Main Rd
+DOS Colony, Jeevan Bima Nagar
+Bengaluru, Karnataka 560075</description>
+			<LookAt>
+				<longitude>77.65427279406312</longitude>
+				<latitude>12.96756368114519</latitude>
+				<altitude>0</altitude>
+				<heading>-3.915791182528048e-009</heading>
+				<tilt>0</tilt>
+				<range>1012.587333706232</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.65427279406312,12.96756368114519,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>IOCL PETROL BUNK - Fire Station
+Narayanappa Garden, Whitefield
+Bengaluru, Karnataka 560066</description>
+			<LookAt>
+				<longitude>77.75301864024357</longitude>
+				<latitude>12.96433776402347</latitude>
+				<altitude>0</altitude>
+				<heading>5.656775528716937e-011</heading>
+				<tilt>0</tilt>
+				<range>1008.154818441222</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.75301864024357,12.96433776402348,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Fuel Station - Petrol Pump
+#/ DadaMastan Layout Manayata Tech Park
+#88/1, Service Rd
+Kanaka Nagar, DadaMastan Layout, Nagavara Village, Nagavara
+Bengaluru, Karnataka 560045</description>
+			<LookAt>
+				<longitude>77.61374251831565</longitude>
+				<latitude>13.04179386739744</latitude>
+				<altitude>0</altitude>
+				<heading>2.902069289247923e-010</heading>
+				<tilt>0</tilt>
+				<range>1004.632285470832</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.61374251831566,13.04179386739744,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Pump
+
+Indian Oil Petrol Pump - Petrol Pump
+18/A, 1st Cross Rd
+Vysya Bank Colony, Stage 2, BTM Layout
+Bengaluru, Karnataka 560076</description>
+			<LookAt>
+				<longitude>77.60533108629186</longitude>
+				<latitude>12.91643759054893</latitude>
+				<altitude>0</altitude>
+				<heading>3.313789349534963e-008</heading>
+				<tilt>0</tilt>
+				<range>1116.32392186974</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.60533108629186,12.91643759054893,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Yelahanka Black Oil Depot IOCL - Petrol Pump
+Yelahanka
+Bengaluru, Karnataka 560064</description>
+			<LookAt>
+				<longitude>77.58200730000002</longitude>
+				<latitude>13.1188977</latitude>
+				<altitude>0</altitude>
+				<heading>-6.361109362927034e-015</heading>
+				<tilt>0</tilt>
+				<range>1000.00000000173</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.5820073,13.1188977,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Pump Basavanagudi - Petrol Pump
+Shop No. 59, K.R Road,
+Yediyur, Basavanagudi
+Bengaluru, Karnataka 560028</description>
+			<LookAt>
+				<longitude>77.57345631222383</longitude>
+				<latitude>12.92972847052354</latitude>
+				<altitude>0</altitude>
+				<heading>-2.067638841485913e-011</heading>
+				<tilt>0</tilt>
+				<range>1009.149647819778</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.57345631222383,12.92972847052354,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Pump - Petrol Pump
+193, Mysore Rd
+Ramachandra Agrahara, Azad Nagar
+Bengaluru, Karnataka 560026</description>
+			<LookAt>
+				<longitude>77.55574639158084</longitude>
+				<latitude>12.95903486253951</latitude>
+				<altitude>0</altitude>
+				<heading>-1.815268625947415e-008</heading>
+				<tilt>0</tilt>
+				<range>1061.182977577209</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.55574639158084,12.95903486253951,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Pump - Petrol Pump
+32, Mahakavi Kuvempu Rd
+C Block, Ramamohanapuram, Gayatrinagar, Rajaji Nagar
+Bengaluru, Karnataka 560021</description>
+			<LookAt>
+				<longitude>77.56046576293619</longitude>
+				<latitude>12.9973794493423</latitude>
+				<altitude>0</altitude>
+				<heading>1.804527455461844e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.814576357954</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.56046576293618,12.99737944934231,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>IOCL Petrol Bunk - Petrol Pump
+321,
+Mysore Rd
+Muthachari Industrial Estate, Deepanjali Nagar
+Bengaluru, Karnataka 560026</description>
+			<LookAt>
+				<longitude>77.53378652160424</longitude>
+				<latitude>12.94742780922354</latitude>
+				<altitude>0</altitude>
+				<heading>8.727795882644202e-009</heading>
+				<tilt>0</tilt>
+				<range>1077.375241561375</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.53378652160424,12.94742780922354,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Pump - Petrol Pump
+Magadi Main Rd
+Madappa Garden, Agrahara Dasarahalli, Rajaji Nagar
+Bengaluru, Karnataka 560010</description>
+			<LookAt>
+				<longitude>77.54831369999999</longitude>
+				<latitude>12.9753785</latitude>
+				<altitude>0</altitude>
+				<heading>6.361109362927033e-015</heading>
+				<tilt>0</tilt>
+				<range>999.9999999995565</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.54831369999999,12.9753785,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Pump - Petrol Pump
+Marenahalli Rd
+Phase I, 1st Phase, Banashankari
+Bengaluru, Karnataka 560078</description>
+			<LookAt>
+				<longitude>77.57441171679952</longitude>
+				<latitude>12.91725597625424</latitude>
+				<altitude>0</altitude>
+				<heading>2.514852659553147e-010</heading>
+				<tilt>0</tilt>
+				<range>1004.649744998545</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.57441171679952,12.91725597625424,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Fuel Station - Petrol Pump
+Sarjapur Main Rd
+Sarjapur
+Bengaluru, Karnataka 562125</description>
+			<LookAt>
+				<longitude>77.78245380000001</longitude>
+				<latitude>12.8605437</latitude>
+				<altitude>0</altitude>
+				<heading>2.305902144061049e-014</heading>
+				<tilt>0</tilt>
+				<range>999.9999999986486</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.78245380000001,12.8605437,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Bunk - Petrol Pump
+# 37, Sarjapur Main Rd
+Doddakannalli
+Bengaluru, Karnataka 560035</description>
+			<LookAt>
+				<longitude>77.69240393814548</longitude>
+				<latitude>12.90829437677473</latitude>
+				<altitude>0</altitude>
+				<heading>7.838937397756981e-009</heading>
+				<tilt>0</tilt>
+				<range>1034.373749874394</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.69240393814546,12.90829437677473,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Pump - Petrol Pump
+Kanakapura Rd
+Ganapathipura, Konanakunte
+Bengaluru, Karnataka 560078</description>
+			<LookAt>
+				<longitude>77.57098821336237</longitude>
+				<latitude>12.89654647222072</latitude>
+				<altitude>0</altitude>
+				<heading>-2.95691795472976e-010</heading>
+				<tilt>0</tilt>
+				<range>1011.449841720961</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.57098821336237,12.89654647222072,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Sree Venkateshwara Service Station - Petrol Pump
+Old Madras Road, Indira Nagar II Stage
+Gowthamapuram, Jogupalya
+Bengaluru, Karnataka 560001</description>
+			<LookAt>
+				<longitude>77.61986080568555</longitude>
+				<latitude>12.97250156572225</latitude>
+				<altitude>0</altitude>
+				<heading>-5.401989244571599e-010</heading>
+				<tilt>0</tilt>
+				<range>1006.505038975731</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.61986080568556,12.97250156572225,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Pump - Petrol Pump
+402/B, 5th Cross Rd
+HRBR Layout 2nd Block, HRBR Layout, Kalyan Nagar
+Bengaluru, Karnataka 560043</description>
+			<LookAt>
+				<longitude>77.63726189999933</longitude>
+				<latitude>13.02561509999791</latitude>
+				<altitude>0</altitude>
+				<heading>1.033680271475643e-014</heading>
+				<tilt>43.95021534005959</tilt>
+				<range>1000.000931816413</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.63726189999933,13.02561509999791,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Pump - Petrol Pump
+31, Hennur Main Road
+St Thomas Town, Cooke Town
+Bengaluru, Karnataka 560084</description>
+			<LookAt>
+				<longitude>77.61979810000005</longitude>
+				<latitude>13.0049006</latitude>
+				<altitude>0</altitude>
+				<heading>3.021526947390341e-014</heading>
+				<tilt>0</tilt>
+				<range>1000.00000000499</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.61979810000005,13.0049006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Pump
+
+Indian Oil Petrol Pump - Petrol Pump
+NH 209
+Mango Garden Layout, Konanakunte
+Bengaluru, Karnataka 560078</description>
+			<LookAt>
+				<longitude>77.56476797082129</longitude>
+				<latitude>12.89091430472297</latitude>
+				<altitude>0</altitude>
+				<heading>-2.317731024490747e-009</heading>
+				<tilt>0</tilt>
+				<range>1017.031007415595</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.56476797082129,12.89091430472297,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil - Petrol Pump
+Kanteerava Studio Main Rd
+Narasimha Layout, Yeshwanthpur
+Bengaluru, Karnataka 560022</description>
+			<LookAt>
+				<longitude>77.53826648578253</longitude>
+				<latitude>13.02004563784633</latitude>
+				<altitude>0</altitude>
+				<heading>7.943733493956521e-010</heading>
+				<tilt>0</tilt>
+				<range>1017.163017085454</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.53826648578253,13.02004563784633,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil
+
+Indian Oil - Petrol Pump
+Harlur Main Rd
+Royal Placid Layout, PWD Quarters, 1st Sector, Harlur
+Bengaluru, Karnataka 560102</description>
+			<LookAt>
+				<longitude>77.65835934754735</longitude>
+				<latitude>12.89905885746973</latitude>
+				<altitude>0</altitude>
+				<heading>7.068854342032996e-010</heading>
+				<tilt>0</tilt>
+				<range>1018.741321593683</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.65835934754733,12.89905885746973,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Pump
+
+Indian Oil Petrol Pump - Petrol Pump
+Kodigehalli - Thindlu Rd
+Virupakshapura
+Bengaluru, Karnataka 560097</description>
+			<LookAt>
+				<longitude>77.57082619970956</longitude>
+				<latitude>13.06508157533403</latitude>
+				<altitude>0</altitude>
+				<heading>4.93886072601699e-010</heading>
+				<tilt>0</tilt>
+				<range>1016.324621450378</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.57082619970957,13.06508157533403,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil - Petrol Pump
+Ramamurthi Nagar Main Rd
+Ramamurthy Nagar, Govindpura, Ramamurthy Nagar
+Bengaluru, Karnataka 560016</description>
+			<LookAt>
+				<longitude>77.66663629999999</longitude>
+				<latitude>13.0124158</latitude>
+				<altitude>0</altitude>
+				<heading>9.144094709207609e-015</heading>
+				<tilt>0</tilt>
+				<range>1000.000000001703</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.66663630000001,13.0124158,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Sri Chamundeshwari Petroleum - Petrol Pump
+Hesarghatta Main Rd
+Chikkabanavara
+Bengaluru, Karnataka 560090</description>
+			<LookAt>
+				<longitude>77.50430363287731</longitude>
+				<latitude>13.07539881599194</latitude>
+				<altitude>0</altitude>
+				<heading>1.040191662047269e-009</heading>
+				<tilt>0</tilt>
+				<range>1023.50503228366</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.50430363287731,13.07539881599194,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Sai Sharada Krishna Enterprises. IOCL PETROL BUNK - Petrol Pump
+39/2, HIghway 9
+Honnenahalli
+Bengaluru, Karnataka 560064</description>
+			<LookAt>
+				<longitude>77.56674150000001</longitude>
+				<latitude>13.1577946</latitude>
+				<altitude>0</altitude>
+				<heading>5.963540027744093e-015</heading>
+				<tilt>0</tilt>
+				<range>999.9999999995415</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.56674150000002,13.1577946,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Pump - Petrol Pump
+Electronic City Phase II, Electronic City
+Bengaluru, Karnataka 560100</description>
+			<LookAt>
+				<longitude>77.67834240000001</longitude>
+				<latitude>12.8388699</latitude>
+				<altitude>0</altitude>
+				<heading>9.541664044390549e-015</heading>
+				<tilt>0</tilt>
+				<range>1000.000000001691</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.67834240000001,12.8388699,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Bunk - Petrol Pump
+Magadi Main Rd
+Agrahara Dasarahalli, Basaveshwar Nagar
+Bengaluru, Karnataka 560079</description>
+			<LookAt>
+				<longitude>77.53741019098378</longitude>
+				<latitude>12.98065149930985</latitude>
+				<altitude>0</altitude>
+				<heading>2.146492345856763e-009</heading>
+				<tilt>0</tilt>
+				<range>1034.249390777733</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.53741019098376,12.98065149930985,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil - Petrol Pump
+LR Bande Rd
+Shampura, Kaval Bairasandra
+Bengaluru, Karnataka 560045</description>
+			<LookAt>
+				<longitude>77.6079811384591</longitude>
+				<latitude>13.02226362220312</latitude>
+				<altitude>0</altitude>
+				<heading>-3.814980718913716e-009</heading>
+				<tilt>0</tilt>
+				<range>1015.302413068421</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.60798113845911,13.02226362220312,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Pump - Petrol Pump
+Uttarahalli Main Rd
+Reflex Housing Layout, Hemmigepura Ward 198, RR Nagar
+Bengaluru, Karnataka 560098</description>
+			<LookAt>
+				<longitude>77.50658397123205</longitude>
+				<latitude>12.90421657771672</latitude>
+				<altitude>0</altitude>
+				<heading>-2.612418162253716e-009</heading>
+				<tilt>0</tilt>
+				<range>1015.82486670065</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.50658397123206,12.90421657771672,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Pump - Petrol Pump
+Old Outer Ring Rd
+Devaraj Arash Layout, Sonnenahalli, Nagdevanahalli
+Bengaluru, Karnataka 560056</description>
+			<LookAt>
+				<longitude>77.49044143046358</longitude>
+				<latitude>12.93249016978297</latitude>
+				<altitude>0</altitude>
+				<heading>4.159847467886133e-011</heading>
+				<tilt>0</tilt>
+				<range>1003.093010606101</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.49044143046358,12.93249016978297,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil - Petrol Pump
+Goravigere Colony, Kattanallur, Konadasapura
+Bengaluru, Karnataka 560067</description>
+			<LookAt>
+				<longitude>77.7608425499751</longitude>
+				<latitude>13.0415896111622</latitude>
+				<altitude>0</altitude>
+				<heading>-1.419608378955091e-009</heading>
+				<tilt>0</tilt>
+				<range>1028.582013787156</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.7608425499751,13.0415896111622,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Fuel Station - Petrol Pump
+Old Outer Ring Rd
+Stage II, Kengeri Satellite Town
+Bengaluru, Karnataka 560060</description>
+			<LookAt>
+				<longitude>77.48193215253869</longitude>
+				<latitude>12.91519426914415</latitude>
+				<altitude>0</altitude>
+				<heading>-1.726373275551582e-010</heading>
+				<tilt>0</tilt>
+				<range>1007.549995210781</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.4819321525387,12.91519426914415,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Bunk - Petrol Pump
+Hennur Bagalur Rd
+Punappa Layout, HBR Layout
+Bengaluru, Karnataka 560043</description>
+			<LookAt>
+				<longitude>77.63673349887684</longitude>
+				<latitude>13.03270750718429</latitude>
+				<altitude>0</altitude>
+				<heading>1.208154766928681e-009</heading>
+				<tilt>0</tilt>
+				<range>1022.313194563485</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.63673349887684,13.03270750718429,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Fuel Station - Petrol Pump
+Kamadhenu Nagar, B Narayanapura, Mahadevapura
+Kamadhenu Nagar, B Narayanapura, Mahadevapura
+Bengaluru, Karnataka 560048</description>
+			<LookAt>
+				<longitude>77.68802864294024</longitude>
+				<latitude>12.99873101757291</latitude>
+				<altitude>0</altitude>
+				<heading>-4.975918163749394e-010</heading>
+				<tilt>0</tilt>
+				<range>1012.515317610127</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.68802864294024,12.99873101757291,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Pump - Petrol Pump
+Old Outer Ring Road, Sonnenahalli
+Kengeri Satellite Town
+Raja Layout, 1 Block Sir M Vishveshwaraiah Layout, Sonnenahalli, Nagdevanahalli
+Bengaluru, Karnataka 560056</description>
+			<LookAt>
+				<longitude>77.48866850151366</longitude>
+				<latitude>12.93305440049873</latitude>
+				<altitude>0</altitude>
+				<heading>-8.985066975134434e-013</heading>
+				<tilt>0</tilt>
+				<range>1000.428672103368</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.48866850151366,12.93305440049873,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Varadaraja Service Station - Petrol Pump
+596, Dr Rajkumar Rd
+E block, 2nd Stage, Rajaji Nagar
+Bengaluru, Karnataka 560010</description>
+			<LookAt>
+				<longitude>77.55339923368003</longitude>
+				<latitude>13.00216878189776</latitude>
+				<altitude>0</altitude>
+				<heading>-4.742807359758229e-010</heading>
+				<tilt>0</tilt>
+				<range>1005.698217520712</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.55339923368003,13.00216878189776,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian oil petrol pump - Petrol Pump
+68th Cross Rd
+Kumaraswamy Layout II Stage, 1st Stage, Kumaraswamy Layout
+Bengaluru, Karnataka 560078</description>
+			<LookAt>
+				<longitude>77.5617510432693</longitude>
+				<latitude>12.9036462619583</latitude>
+				<altitude>0</altitude>
+				<heading>8.053683281448035e-009</heading>
+				<tilt>0</tilt>
+				<range>1070.364658317253</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.5617510432693,12.9036462619583,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil - Petrol Pump
+Bagalur Main Rd
+Dwarka Nagar
+Bengaluru, Karnataka 560064</description>
+			<LookAt>
+				<longitude>77.62317449999998</longitude>
+				<latitude>13.121423</latitude>
+				<altitude>0</altitude>
+				<heading>1.391492673140288e-014</heading>
+				<tilt>0</tilt>
+				<range>999.9999999989518</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.62317449999998,13.121423,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Pump - Petrol Pump
+Bengaluru, Karnataka 560083</description>
+			<LookAt>
+				<longitude>77.58933422432844</longitude>
+				<latitude>12.8327234365981</latitude>
+				<altitude>0</altitude>
+				<heading>-2.131216539291029e-009</heading>
+				<tilt>0</tilt>
+				<range>1070.730336283883</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.58933422432844,12.8327234365981,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil - Petrol Pump
+Raj Mahal Vilas 2nd Stage, Sanjaynagar
+Bengaluru, Karnataka 560094</description>
+			<LookAt>
+				<longitude>77.5788954166825</longitude>
+				<latitude>13.02918277964152</latitude>
+				<altitude>0</altitude>
+				<heading>9.088077189880333e-010</heading>
+				<tilt>0</tilt>
+				<range>1079.196050886134</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.5788954166825,13.02918277964151,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil - Petrol Pump
+33/1, 80 Feet Road, SBM Colony
+Seetha Circle, BSK III Stage
+1st phase Girinagar, Banashankari 3rd Stage, Banashankari
+Bengaluru, Karnataka 560085</description>
+			<LookAt>
+				<longitude>77.54953276681336</longitude>
+				<latitude>12.93790301539512</latitude>
+				<altitude>0</altitude>
+				<heading>-4.317267829137164e-009</heading>
+				<tilt>0</tilt>
+				<range>1012.365280671128</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.54953276681336,12.93790301539512,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Pump - Petrol Pump
+24, Bannerghatta Main Rd
+Himagiri Meadows, Gottigere
+Bengaluru, Karnataka 560076</description>
+			<LookAt>
+				<longitude>77.5901398962442</longitude>
+				<latitude>12.86012110740412</latitude>
+				<altitude>0</altitude>
+				<heading>4.36538683848236e-010</heading>
+				<tilt>0</tilt>
+				<range>1021.750484507617</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.59013989624421,12.86012110740412,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Fuel - Petrol Pump
+MS Palya
+Vidyaranyapura Post, Bangalore Urban
+Vidyaranyapura
+Bengaluru, Karnataka 560097</description>
+			<LookAt>
+				<longitude>77.54824589460314</longitude>
+				<latitude>13.08111970095246</latitude>
+				<altitude>0</altitude>
+				<heading>4.541221816200396e-009</heading>
+				<tilt>0</tilt>
+				<range>1093.677971140164</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.54824589460314,13.08111970095246,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Petrol Pump
+
+Petrol Pump - Petrol Pump
+Devasthanagalu, Varthur
+Bengaluru, Karnataka 560087</description>
+			<LookAt>
+				<longitude>77.7418432482378</longitude>
+				<latitude>12.93865743490624</latitude>
+				<altitude>0</altitude>
+				<heading>1.195775014428154e-008</heading>
+				<tilt>0</tilt>
+				<range>1041.626252053224</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.7418432482378,12.93865743490624,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil - Petrol Pump
+Near Indian Oil Petrol Bunk, Kogilu Main Road
+Maruthi Nagar, Yelahanka
+Kurlappa Layout, Maruthi Nagar, Yelahanka
+Bengaluru, Karnataka 560064</description>
+			<LookAt>
+				<longitude>77.60275242704805</longitude>
+				<latitude>13.103825260922</latitude>
+				<altitude>0</altitude>
+				<heading>3.729530346564175e-010</heading>
+				<tilt>0</tilt>
+				<range>1025.661029197969</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.60275242704805,13.103825260922,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>IOC - Banashankari Service Station - Petrol Pump
+Sy No. 27/1, Kadirenahalli
+Uttarahalli Hobli
+Kadarenahalli, Banashankari
+Bengaluru, Karnataka 560070</description>
+			<LookAt>
+				<longitude>77.56212548402337</longitude>
+				<latitude>12.91673783650614</latitude>
+				<altitude>0</altitude>
+				<heading>-2.486707533607541e-009</heading>
+				<tilt>0</tilt>
+				<range>1064.588869288033</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.56212548402337,12.91673783650614,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Pump - Petrol Pump
+2, Yarab Nagar Main Rd
+Banashankari Stage II, Banashankari
+Bengaluru, Karnataka 560070</description>
+			<LookAt>
+				<longitude>77.56931146737428</longitude>
+				<latitude>12.92098000535406</latitude>
+				<altitude>0</altitude>
+				<heading>-7.332911943074804e-010</heading>
+				<tilt>0</tilt>
+				<range>1008.20089313779</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.56931146737426,12.92098000535406,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil - Petrol Pump
+Plot No.460B, 4th Phase, Peenya Industrial Area
+Kalika Nagar, Ragavendra Nagar
+Bengaluru, Karnataka 560058</description>
+			<LookAt>
+				<longitude>77.49960254363489</longitude>
+				<latitude>13.00851078068459</latitude>
+				<altitude>0</altitude>
+				<heading>6.172780768850874e-010</heading>
+				<tilt>0</tilt>
+				<range>1026.362481065901</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.49960254363488,13.00851078068459,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Pump - Petrol Pump
+7th Cross
+HAL Old Airport Rd
+1st Stage, Domlur
+Bengaluru, Karnataka 560071</description>
+			<LookAt>
+				<longitude>77.6346429</longitude>
+				<latitude>12.961329</latitude>
+				<altitude>0</altitude>
+				<heading>3.578124016646456e-015</heading>
+				<tilt>0</tilt>
+				<range>999.999999999403</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.6346429,12.96132900000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Pump - Petrol Pump
+4, Raja Ram Mohan Roy Rd
+Sampangi Rama Nagar
+Bengaluru, Karnataka 560027</description>
+			<LookAt>
+				<longitude>77.59533601707024</longitude>
+				<latitude>12.96642070787672</latitude>
+				<altitude>0</altitude>
+				<heading>1.673904857679484e-009</heading>
+				<tilt>0</tilt>
+				<range>1012.078169711686</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.59533601707024,12.96642070787672,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Bunk - Petrol Pump
+Tannery Road
+Behind Mediscan Home, Bangalore Urban
+Pillanna Garden, Stage 3, Kadugondanahalli
+Bengaluru, Karnataka 560045</description>
+			<LookAt>
+				<longitude>77.6158277568359</longitude>
+				<latitude>13.01151093209034</latitude>
+				<altitude>0</altitude>
+				<heading>2.623958804915407e-009</heading>
+				<tilt>0</tilt>
+				<range>1015.766818347932</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.6158277568359,13.01151093209034,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Pump - Petrol Pump
+466, Tannery Rd
+AR Colony, Devara Jeevanahalli
+Bengaluru, Karnataka 560045</description>
+			<LookAt>
+				<longitude>77.6130725427479</longitude>
+				<latitude>13.00832759994979</latitude>
+				<altitude>0</altitude>
+				<heading>-3.177038578263158e-009</heading>
+				<tilt>0</tilt>
+				<range>1021.166611725631</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.6130725427479,13.00832759994979,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Pump - Petrol Pump
+LG-34, Sampige Rd
+Jai Bheema Nagar, Malleshwaram West
+Bengaluru, Karnataka 560020</description>
+			<LookAt>
+				<longitude>77.5717703178948</longitude>
+				<latitude>12.99083923090311</latitude>
+				<altitude>0</altitude>
+				<heading>-2.029655067202536e-010</heading>
+				<tilt>0</tilt>
+				<range>1001.673097938688</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.5717703178948,12.99083923090311,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Station - Petrol Pump
+65, Manipal County Road
+Aishwarya Crystal Layout, Singasandra
+Aishwarya Crystal Layout, Begur
+Bengaluru, Karnataka 560068</description>
+			<LookAt>
+				<longitude>77.64094343846327</longitude>
+				<latitude>12.87409534032392</latitude>
+				<altitude>0</altitude>
+				<heading>1.909513589803603e-010</heading>
+				<tilt>0</tilt>
+				<range>1011.018409385521</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.64094343846327,12.87409534032392,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Fuel Station - Fierce Fence - Petrol Pump
+Plot No.322-B,Bommasandra Jigani Link Rd, Jigani
+Bommasandra Industrial Area
+Bengaluru, Karnataka 560105</description>
+			<LookAt>
+				<longitude>77.66396074884729</longitude>
+				<latitude>12.80767393542549</latitude>
+				<altitude>0</altitude>
+				<heading>2.227423030733142e-008</heading>
+				<tilt>0</tilt>
+				<range>1016.387606966365</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.66396074884729,12.8076739354255,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Pump - Petrol Pump
+52/A
+J P Nagar 2nd Phase
+KSRTC Layout, 3rd Phase, JP Nagar
+Bengaluru, Karnataka 560078
+</description>
+			<LookAt>
+				<longitude>77.59484310309097</longitude>
+				<latitude>12.91040907277765</latitude>
+				<altitude>0</altitude>
+				<heading>-3.35671303691039e-006</heading>
+				<tilt>0</tilt>
+				<range>1001.901781397786</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.59484310309097,12.91040907277765,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Pump - Petrol Pump
+St Marks Road
+Shanthala Nagar, Ashok Nagar
+Shanthala Nagar, Ashok Nagar
+Bengaluru, Karnataka 560001</description>
+			<LookAt>
+				<longitude>77.60136340387152</longitude>
+				<latitude>12.97526606789182</latitude>
+				<altitude>0</altitude>
+				<heading>2.897882884148447e-012</heading>
+				<tilt>0</tilt>
+				<range>1000.631261701109</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.60136340387152,12.97526606789182,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Bunk - Petrol Pump
+Hennur Main Road
+Sait Palya Layout, Lingarajapuram
+Bengaluru, Karnataka 560084</description>
+			<LookAt>
+				<longitude>77.62858571199331</longitude>
+				<latitude>13.01468631846974</latitude>
+				<altitude>0</altitude>
+				<heading>2.104154392214461e-009</heading>
+				<tilt>0</tilt>
+				<range>1035.576594420586</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.62858571199331,13.01468631846974,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>AUM PETROLEUMS Indian Oil - Petrol Pump
+Hosa Rd
+Naganathapura, Rayasandra
+Bengaluru, Karnataka 560100</description>
+			<LookAt>
+				<longitude>77.67162474970294</longitude>
+				<latitude>12.87638183237968</latitude>
+				<altitude>0</altitude>
+				<heading>1.030491765407476e-010</heading>
+				<tilt>0</tilt>
+				<range>1001.677626788976</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.67162474970294,12.87638183237968,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Pump - Petrol Pump
+Wheeler Road Cox Town
+Cox Town
+Bengaluru, Karnataka 560005</description>
+			<LookAt>
+				<longitude>77.61939890000001</longitude>
+				<latitude>12.9967491</latitude>
+				<altitude>0</altitude>
+				<heading>1.471006540176876e-014</heading>
+				<tilt>0</tilt>
+				<range>1000.000000001824</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.61939889999999,12.9967491,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Woodlands Petrol Pump
+
+Woodlands Petrol Pump - Petrol Pump
+5/2, R M Roy Road
+Sampangi Rama Nagara
+Bengaluru, Karnataka 560025</description>
+			<LookAt>
+				<longitude>77.5964141</longitude>
+				<latitude>12.9647183</latitude>
+				<altitude>0</altitude>
+				<heading>1.033680271475643e-014</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000135</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.5964141,12.9647183,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Pump - Petrol Pump
+Singayyanapalya, Krishnarajapura
+Bengaluru, Karnataka 560016
+</description>
+			<LookAt>
+				<longitude>77.68715150000004</longitude>
+				<latitude>12.9999565</latitude>
+				<altitude>0</altitude>
+				<heading>6.361109362927033e-015</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000396</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.68715150000004,12.9999565,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil (Shri Venkataramana Service Station) - Petrol Pump
+Hosur Road
+Bommasandra Industrial Area, Anekal Taluk, Bangalore Urban
+Tranquil City, Bommasandra Village
+Bengaluru, Karnataka 560099</description>
+			<LookAt>
+				<longitude>77.69819256385827</longitude>
+				<latitude>12.80824092780026</latitude>
+				<altitude>0</altitude>
+				<heading>6.204785100333102e-011</heading>
+				<tilt>0</tilt>
+				<range>1015.213092207837</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.69819256385829,12.80824092780026,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Pump - Petrol Pump
+Kumbalgodu Mysuru main road Bengaluru south
+Bengaluru, Karnataka 560074</description>
+			<LookAt>
+				<longitude>77.44276798301046</longitude>
+				<latitude>12.87441589674202</latitude>
+				<altitude>0</altitude>
+				<heading>5.374908411736278e-009</heading>
+				<tilt>0</tilt>
+				<range>1035.504408294077</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.44276798301046,12.87441589674202,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Bunk - Petrol Pump
+3rd Main Rd
+Shivapura, Peenya
+Bengaluru, Karnataka 560058
+</description>
+			<LookAt>
+				<longitude>77.50989554198678</longitude>
+				<latitude>13.02340365248281</latitude>
+				<altitude>0</altitude>
+				<heading>-1.411393006212871e-009</heading>
+				<tilt>0</tilt>
+				<range>1034.335284141783</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.50989554198677,13.02340365248281,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Bunk - Petrol Pump
+Koppa - Begur Road
+Bettadasanapura
+Bengaluru, Karnataka 560083</description>
+			<LookAt>
+				<longitude>77.61845527918634</longitude>
+				<latitude>12.84217520048821</latitude>
+				<altitude>0</altitude>
+				<heading>7.585622915290487e-012</heading>
+				<tilt>0</tilt>
+				<range>1004.546530526868</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.61845527918634,12.84217520048821,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Pump - Petrol Pump
+Ideal Homes Layout, Javarandoddi, Nayanda Halli
+Bengaluru, Karnataka 560039</description>
+			<LookAt>
+				<longitude>77.51650221501998</longitude>
+				<latitude>12.93273367578149</latitude>
+				<altitude>0</altitude>
+				<heading>1.267785316860233e-007</heading>
+				<tilt>0</tilt>
+				<range>2888.17529151492</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.51650221501998,12.93273367578149,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>IOC - Namrata Agency - Petrol Pump
+Yesvantpur Industrial Suburb, Yeshwanthpur
+Bengaluru, Karnataka 560022
+</description>
+			<LookAt>
+				<longitude>77.54425516630202</longitude>
+				<latitude>13.02601758675471</latitude>
+				<altitude>0</altitude>
+				<heading>-2.797456870081236e-011</heading>
+				<tilt>0</tilt>
+				<range>1001.221489775055</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.54425516630202,13.02601758675471,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Pump - Petrol Pump
+8th Mile Stone
+Nagasandra Post, Bangalore Urban
+Handrihalli Main Rd, Nagasandra
+Bengaluru, Karnataka 560073</description>
+			<LookAt>
+				<longitude>77.50518352516352</longitude>
+				<latitude>13.04518124147791</latitude>
+				<altitude>0</altitude>
+				<heading>2.270279931628659e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.935733834984</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.50518352516352,13.04518124147791,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Deve Gowda Petrol Bunk - Petrol Pump
+Outer Ring Road
+Banagiri Nagar, Banashankari
+7 Block, CG Chinnappa Naidu Layout, Banashankari 3rd Stage, Banashankari
+Bengaluru, Karnataka 560070</description>
+			<LookAt>
+				<longitude>77.56000798393286</longitude>
+				<latitude>12.9221328467942</latitude>
+				<altitude>0</altitude>
+				<heading>-3.242082511776428e-010</heading>
+				<tilt>0</tilt>
+				<range>1012.670201101968</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.56000798393288,12.92213284679419,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Bunk - Petrol Pump
+132/3, Magadi Main Rd
+Sannakki Bayalu, Vinayaka Nagar, Kamaksipalya
+Bengaluru, Karnataka 560079</description>
+			<LookAt>
+				<longitude>77.52523592852744</longitude>
+				<latitude>12.98581194877279</latitude>
+				<altitude>0</altitude>
+				<heading>-1.558177592609088e-009</heading>
+				<tilt>0</tilt>
+				<range>1013.624766927726</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.52523592852744,12.98581194877279,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Pump: Savani Service Station - Petrol Pump
+Tumkur Rd, Peenya Industrial Area
+Peenya II Phase, Peenya
+Bengaluru, Karnataka 560058</description>
+			<LookAt>
+				<longitude>77.52366730600254</longitude>
+				<latitude>13.03639740644981</latitude>
+				<altitude>0</altitude>
+				<heading>2.735277026058624e-012</heading>
+				<tilt>0</tilt>
+				<range>1001.367124723151</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.52366730600254,13.03639740644981,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Pump - Petrol Pump
+NH948
+Vakil Garden City
+Bengaluru, Karnataka 560062
+</description>
+			<LookAt>
+				<longitude>77.52871090052327</longitude>
+				<latitude>12.85875472164842</latitude>
+				<altitude>0</altitude>
+				<heading>-9.899476446055194e-014</heading>
+				<tilt>0</tilt>
+				<range>1000.418271057943</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.52871090052325,12.85875472164842,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Bunk - Petrol Pump
+Kempegowdanagar, Byadarahalli
+Bengaluru, Karnataka 560091
+</description>
+			<LookAt>
+				<longitude>77.47775113887418</longitude>
+				<latitude>12.98650141777416</latitude>
+				<altitude>0</altitude>
+				<heading>4.056841228833586e-010</heading>
+				<tilt>0</tilt>
+				<range>1006.707256477986</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.4777511388742,12.98650141777416,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil - Jalahalli Service Station, Gokula, BEL Circle - Petrol Pump
+MS Ramaiah Rd
+HMR Layout, Gokula Extension, Mathikere
+Bengaluru, Karnataka 560054
+</description>
+			<LookAt>
+				<longitude>77.55682162883132</longitude>
+				<latitude>13.0430890188264</latitude>
+				<altitude>0</altitude>
+				<heading>-6.949575590091414e-010</heading>
+				<tilt>0</tilt>
+				<range>1007.388279821181</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.55682162883133,13.0430890188264,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil
+
+Indian Oil - Petrol Pump
+18/4, Mysore Rd
+ITI Layout 3rd Phase, Dr.Ambedkar Nagar, Nayanda Halli
+Bengaluru, Karnataka 560039</description>
+			<LookAt>
+				<longitude>77.52216990000002</longitude>
+				<latitude>12.9382603</latitude>
+				<altitude>0</altitude>
+				<heading>1.630034274250052e-014</heading>
+				<tilt>0</tilt>
+				<range>1000.000000002188</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.52216990000002,12.9382603,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Bunk - Petrol Pump
+Hesarghatta Main Rd
+Chikkabanavara
+Bengaluru, Karnataka 560090
+</description>
+			<LookAt>
+				<longitude>77.49975140800136</longitude>
+				<latitude>13.08283085905055</latitude>
+				<altitude>0</altitude>
+				<heading>2.693405023677157e-010</heading>
+				<tilt>0</tilt>
+				<range>1008.249378341675</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.49975140800136,13.08283085905055,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL</name>
+			<description>Indian Oil Petrol Bunk: Triveni Petrol Bunk
+
+Indian Oil Petrol Bunk: Triveni Petrol Bunk - Petrol Pump
+S M Road
+Kalahasti Nagar, Prashanth Nagar, T. Dasarahalli
+Bengaluru, Karnataka 560057</description>
+			<LookAt>
+				<longitude>77.52058800000002</longitude>
+				<latitude>13.0436527</latitude>
+				<altitude>0</altitude>
+				<heading>1.471006540176876e-014</heading>
+				<tilt>0</tilt>
+				<range>999.9999999983279</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.520588,13.0436527,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

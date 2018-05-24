@@ -1,0 +1,1267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>LPG Bunks.kml</name>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/gas_stations.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/gas_stations.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/gas_stations.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/gas_stations.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>LPG Bunks</name>
+		<open>1</open>
+		<Placemark>
+			<name>Total LPG</name>
+			<description>Sipani Total Gaz - Petrol Pump
+10, T Mariappa Rd
+Jaya Nagar 1st Block, Jaya Nagar East, Jayanagar
+Bengaluru, Karnataka 560011</description>
+			<LookAt>
+				<longitude>77.5853379</longitude>
+				<latitude>12.94196670000001</latitude>
+				<altitude>0</altitude>
+				<heading>3.975693351829396e-015</heading>
+				<tilt>0</tilt>
+				<range>1000.000000001345</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.5853379,12.94196670000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Total LPG</name>
+			<LookAt>
+				<longitude>77.69242070000001</longitude>
+				<latitude>12.8153085</latitude>
+				<altitude>0</altitude>
+				<heading>1.192708005548819e-014</heading>
+				<tilt>0</tilt>
+				<range>1000.000000002418</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.69242070000001,12.8153085,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Total LPG</name>
+			<description>TotalGaz LPG Station - Petrol Pump
+1st Cross Rd
+Sampangi Rama Nagar
+Bengaluru, Karnataka 560002</description>
+			<LookAt>
+				<longitude>77.58581669999998</longitude>
+				<latitude>12.9614248</latitude>
+				<altitude>0</altitude>
+				<heading>-7.951386703658792e-016</heading>
+				<tilt>0</tilt>
+				<range>1000.0000000003</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.5858167,12.96142480000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Total LPG</name>
+			<description>Darz Total Gaz</description>
+			<LookAt>
+				<longitude>77.55273490000003</longitude>
+				<latitude>13.0195932</latitude>
+				<altitude>0</altitude>
+				<heading>1.311978806103701e-014</heading>
+				<tilt>0</tilt>
+				<range>1000.000000003094</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.55273490000002,13.0195932,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Total Gaz</name>
+			<description>New Gurappana Palya, 1st Stage, BTM Layout 1
+Bengaluru, Karnataka 560029</description>
+			<LookAt>
+				<longitude>77.60041530000001</longitude>
+				<latitude>12.921384</latitude>
+				<altitude>0</altitude>
+				<heading>-1.987846675914698e-015</heading>
+				<tilt>0</tilt>
+				<range>999.9999999992177</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.60041530000001,12.921384,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Total LPG</name>
+			<description>DARS TOTALGAZ - Petrol Pump
+Arabic College Main Rd, Venkateshpuram
+Kadugondanahalli
+Doddanna Layout, Kadugondanahalli
+Bengaluru, Karnataka 560045</description>
+			<LookAt>
+				<longitude>77.617722301944</longitude>
+				<latitude>13.01606380532538</latitude>
+				<altitude>0</altitude>
+				<heading>1.230518824846743e-006</heading>
+				<tilt>0</tilt>
+				<range>1001.05874356248</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.61772230194399,13.01606380532538,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Total LPG</name>
+			<description>Total Auto LPG Gas Station - Petroleum Products Company
+GD Layout, Doddabommasandra, Vidyaranyapura
+Bengaluru, Karnataka 560097</description>
+			<LookAt>
+				<longitude>77.56244325074587</longitude>
+				<latitude>13.06932843493487</latitude>
+				<altitude>0</altitude>
+				<heading>7.2559743253302e-010</heading>
+				<tilt>0</tilt>
+				<range>1012.453994459311</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.56244325074587,13.06932843493487,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Total LPG</name>
+			<description>TOTALGAZ Auto LPG Station - Petrol Pump
+18, 1st Main Rd
+Kuvempu Nagar, Konanakunte
+Bengaluru, Karnataka 560062</description>
+			<LookAt>
+				<longitude>77.55684719160584</longitude>
+				<latitude>12.88622920839609</latitude>
+				<altitude>0</altitude>
+				<heading>-1.264501076096154e-010</heading>
+				<tilt>0</tilt>
+				<range>1008.053725550922</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.55684719160584,12.88622920839609,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Total LPG</name>
+			<description>Bk Total Gas - LPG Fitment Center
+27, 100th Feet Road Indira Nagar Ist Stage, Hutting Colony,
+H Colony, Indiranagar
+Bengaluru, Karnataka 560038</description>
+			<LookAt>
+				<longitude>77.64084790000004</longitude>
+				<latitude>12.98347020000001</latitude>
+				<altitude>0</altitude>
+				<heading>1.749305074804933e-014</heading>
+				<tilt>0</tilt>
+				<range>1000.000000001511</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.64084790000004,12.9834702,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Total LPG</name>
+			<description>Totalgaz - Petrol Pump
+SY No. 140, Thanisandra Main Road, Near Nagawara junction, Ring Road
+5th Block, Ashwath Nagar, HBR Layout
+Bengaluru, Karnataka 560045</description>
+			<LookAt>
+				<longitude>77.62463997665599</longitude>
+				<latitude>13.04040496071675</latitude>
+				<altitude>0</altitude>
+				<heading>-1.609638967355167e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.433128020091</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.62463997665599,13.04040496071675,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Total LPG</name>
+			<description>Total Gaz - Gas Agency
+Bull Temple Rd
+Shankarapura
+Bengaluru, Karnataka 560004</description>
+			<LookAt>
+				<longitude>77.56763000000002</longitude>
+				<latitude>12.9525806</latitude>
+				<altitude>0</altitude>
+				<heading>-1.590277340731758e-015</heading>
+				<tilt>0</tilt>
+				<range>999.999999999591</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.56763000000004,12.9525806,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Total LPG</name>
+			<description>Totalgaz - Gas Agency
+135, 1st Main, Seshadripuram Main Rd
+DN Ramaiah Layout, Guttahalli
+Kumarapark West, Kumara Park West, Sheshadripuram
+Bengaluru, Karnataka 560020</description>
+			<LookAt>
+				<longitude>77.57910650648135</longitude>
+				<latitude>12.99515844245311</latitude>
+				<altitude>0</altitude>
+				<heading>-9.121075444700518e-011</heading>
+				<tilt>0</tilt>
+				<range>1003.696989116532</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.57910650648135,12.99515844245311,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Total LPG</name>
+			<description>Total Gas Station - Petrol Pump
+915, Kenchena Halli Rd
+Remco Bhel Layout, Kenchenhalli, RR Nagar
+Bengaluru, Karnataka 560098</description>
+			<LookAt>
+				<longitude>77.51615659999999</longitude>
+				<latitude>12.9324191</latitude>
+				<altitude>0</altitude>
+				<heading>-6.361109362927034e-015</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000856</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.5161566,12.9324191,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Total LPG</name>
+			<description>Total Gas - Fuel Supplier
+271, Hennur Bagalur Rd
+HRBR Layout, HBR Layout
+Bengaluru, Karnataka 560043</description>
+			<LookAt>
+				<longitude>77.64151880000001</longitude>
+				<latitude>13.0397843</latitude>
+				<altitude>0</altitude>
+				<heading>2.385416011097638e-015</heading>
+				<tilt>0</tilt>
+				<range>1000.00000000075</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.64151880000001,13.0397843,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Total LPG</name>
+			<description>Total Gas Station - Petrol Pump
+2, Magadi Main Rd
+Govindaraja Nagar Ward, Kullegowda Industrial Estate, Kamaksipalya
+Bengaluru, Karnataka 560079</description>
+			<LookAt>
+				<longitude>77.52193533459102</longitude>
+				<latitude>12.98632614249961</latitude>
+				<altitude>0</altitude>
+				<heading>2.97134574590355e-010</heading>
+				<tilt>0</tilt>
+				<range>1004.48934040901</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.52193533459102,12.98632614249961,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Total LPG</name>
+			<description>Esskay Totalgaz - Petrol Pump
+540/1, Graphite India Main Rd
+NCPR Industrial Layout, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi
+Bengaluru, Karnataka 560048</description>
+			<LookAt>
+				<longitude>77.70857159999999</longitude>
+				<latitude>12.98267920000001</latitude>
+				<altitude>0</altitude>
+				<heading>-2.385416011097638e-015</heading>
+				<tilt>0</tilt>
+				<range>1000.00000000166</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.70857159999999,12.98267920000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Total LPG</name>
+			<description>Total Gas Pump - Petrol Pump
+13, 1st Main Rd
+2nd Stage, Stage 4, Basaveshwar Nagar
+Bengaluru, Karnataka 560079</description>
+			<LookAt>
+				<longitude>77.54040883306689</longitude>
+				<latitude>12.98644618114646</latitude>
+				<altitude>0</altitude>
+				<heading>8.620893464106861e-012</heading>
+				<tilt>0</tilt>
+				<range>1000.562943995395</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.54040883306689,12.98644618114646,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Total LPG</name>
+			<description>Total Oil Gas station - Alternative Fuel Station
+9, 6th Main Rd
+Govindaraja Nagar Ward, Amarajyothi Nagar, Vijaya Nagar
+Bengaluru, Karnataka 560040</description>
+			<LookAt>
+				<longitude>77.5274247</longitude>
+				<latitude>12.97615970000001</latitude>
+				<altitude>0</altitude>
+				<heading>-6.361109362927033e-015</heading>
+				<tilt>0</tilt>
+				<range>999.9999999975449</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.52742469999998,12.9761597,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Total LPG</name>
+			<description>Yestin Totalgaz Station - Petrol Pump
+No. 10, Mangammanapalya Main Road, HSR Layout
+Bommanahalli, Opposite Salarpuria Serenity
+Mangammanapalya
+Bengaluru, Karnataka 560102</description>
+			<LookAt>
+				<longitude>77.63243720000004</longitude>
+				<latitude>12.9065432</latitude>
+				<altitude>0</altitude>
+				<heading>4.373262687012336e-015</heading>
+				<tilt>0</tilt>
+				<range>1000.000000001902</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<gx:balloonVisibility>1</gx:balloonVisibility>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.63243720000003,12.9065432,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Total LPG</name>
+			<LookAt>
+				<longitude>77.56763000000002</longitude>
+				<latitude>12.9525806</latitude>
+				<altitude>0</altitude>
+				<heading>9.541664044390549e-015</heading>
+				<tilt>0</tilt>
+				<range>999.9999999980893</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.56763000000004,12.9525806,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL LPG</name>
+			<description>Advaita Bharat Petroleum - Petrol Pump
+835, 16th Main Rd
+Mico Layout, Banashankari Stage II, BTM 2nd Stage
+Bengaluru, Karnataka 560076</description>
+			<LookAt>
+				<longitude>77.60975555431331</longitude>
+				<latitude>12.91683717642658</latitude>
+				<altitude>0</altitude>
+				<heading>-2.406447428928815e-011</heading>
+				<tilt>0</tilt>
+				<range>1002.016766571244</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.60975555431331,12.91683717642658,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aegis LPG</name>
+			<description>AEGIS Auto Gas - Gas Agency
+Platform Rd
+VV Giri Colony, Sheshadripuram
+Bengaluru, Karnataka 560020</description>
+			<LookAt>
+				<longitude>77.5723665944905</longitude>
+				<latitude>12.98651804628558</latitude>
+				<altitude>0</altitude>
+				<heading>1.410045643735936e-009</heading>
+				<tilt>0</tilt>
+				<range>1011.266386063924</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.5723665944905,12.98651804628558,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL LPG</name>
+			<description>Bharat Petroleum - Petrol Pump
+4, 7th Main Rd
+HRBR Layout 1st Block, Subbaiahnapalya, Banswadi
+Bengaluru, Karnataka 560043</description>
+			<LookAt>
+				<longitude>77.64273806885136</longitude>
+				<latitude>13.01282471395725</latitude>
+				<altitude>0</altitude>
+				<heading>-9.897830509007538e-010</heading>
+				<tilt>0</tilt>
+				<range>1008.866463980305</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.64273806885136,13.01282471395725,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL LPG</name>
+			<description>Bowring Service Station - Car Service
+Street Marks Road
+Shanthala Nagar, Ashok Nagar
+Bengaluru, Karnataka 560001</description>
+			<LookAt>
+				<longitude>77.60130747785868</longitude>
+				<latitude>12.97506061078478</latitude>
+				<altitude>0</altitude>
+				<heading>-2.732875707274118e-010</heading>
+				<tilt>0</tilt>
+				<range>1006.45474356712</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.60130747785868,12.97506061078478,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL LPG</name>
+			<description>Bharat Petroleum Fuel Station - Petrol Pump
+22 Residency Road, Near Brigade Road
+Ashok Nagar
+Shanthala Nagar, Ashok Nagar
+Bengaluru, Karnataka 560025</description>
+			<LookAt>
+				<longitude>77.60533120000001</longitude>
+				<latitude>12.9713585</latitude>
+				<altitude>0</altitude>
+				<heading>1.073437204993937e-014</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000653</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.60533120000002,12.9713585,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL LPG</name>
+			<description>BPCL Petrol Pump - Petrol Pump
+Opp to Christian Gravyard, Mysore Rd
+Old Guddadahalli, Guddadahalli
+Bengaluru, Karnataka 560026</description>
+			<LookAt>
+				<longitude>77.55094816521515</longitude>
+				<latitude>12.95725535019677</latitude>
+				<altitude>0</altitude>
+				<heading>-7.614764747559394e-011</heading>
+				<tilt>0</tilt>
+				<range>1149.633951665233</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.55094816521513,12.95725535019677,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Go Gas</name>
+			<description>Gogas Auto LPG - Petrol Pump
+5, Lal Bagh Main Road
+Vinobha Nagar, Sudhama Nagar
+Sudhama Nagar
+Bengaluru, Karnataka 560027</description>
+			<LookAt>
+				<longitude>77.58670377370839</longitude>
+				<latitude>12.95872857803711</latitude>
+				<altitude>0</altitude>
+				<heading>6.704688782392127e-010</heading>
+				<tilt>0</tilt>
+				<range>1008.675326838525</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.58670377370839,12.95872857803711,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL LPG</name>
+			<description>Auto LPG Gas Station - Petrol Pump
+Koramangala 8th Block, Koramangala
+Bengaluru, Karnataka 560030</description>
+			<LookAt>
+				<longitude>77.61899685989279</longitude>
+				<latitude>12.9452399221178</latitude>
+				<altitude>0</altitude>
+				<heading>-2.701654587382203e-010</heading>
+				<tilt>0</tilt>
+				<range>1007.215592825336</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.61899685989279,12.9452399221178,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Super Gas</name>
+			<description>Super Gas - Auto LPG - Petrol Pump
+25/1, Maruthi Nagar Main Rd
+Madiwala, 1st Stage, BTM Layout 1
+Bengaluru, Karnataka 560068</description>
+			<LookAt>
+				<longitude>77.61472898533278</longitude>
+				<latitude>12.92426316171788</latitude>
+				<altitude>0</altitude>
+				<heading>8.687148393815096e-010</heading>
+				<tilt>0</tilt>
+				<range>1008.334479247101</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.61472898533278,12.92426316171788,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Super Gas</name>
+			<description>SUPERGAS Auto LPG Station - Red august Liquefied - Petrol Pump
+H.no. 8/1, K.R.Puram Hoble, Mahadevpura
+Whitefield Main Road
+Hoodi Village
+Bengaluru, Karnataka 560048</description>
+			<LookAt>
+				<longitude>77.57724240000003</longitude>
+				<latitude>12.961156</latitude>
+				<altitude>0</altitude>
+				<heading>1.232464939067113e-014</heading>
+				<tilt>0</tilt>
+				<range>1000.000000001313</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.57724240000002,12.961156,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Propel Indian oil Petronas</name>
+			<description>Propel Auto LPG Filling Pump/Bunk
+
+Propel Auto LPG Filling Pump/Bunk - Petrol Pump
+7th Block, Jayanagar
+Bengaluru, Karnataka 560070</description>
+			<LookAt>
+				<longitude>77.57373830609227</longitude>
+				<latitude>12.92883845619132</latitude>
+				<altitude>0</altitude>
+				<heading>-1.733004732062433e-012</heading>
+				<tilt>0</tilt>
+				<range>1000.502952062039</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.57373830609227,12.92883845619133,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Go Gas</name>
+			<description>Go Gas Auto LPG Bunk - Petrol Pump
+Chamrajpet,
+Chamrajpet
+Bengaluru, Karnataka 560018</description>
+			<LookAt>
+				<longitude>77.56192165571051</longitude>
+				<latitude>12.96135028833524</latitude>
+				<altitude>0</altitude>
+				<heading>4.438782113450484e-011</heading>
+				<tilt>0</tilt>
+				<range>1001.398497174958</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.56192165571052,12.96135028833524,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Propel Indian oil Petronas</name>
+			<description>Propel Auto LPG Gas Station - Petrol Pump
+80/3, Near Citrus Hotel
+Outer Ring Road
+Bellandur
+Bengaluru, Karnataka 560103
+
+094483 75959
+Open until 11:00 PM</description>
+			<LookAt>
+				<longitude>77.67183771251037</longitude>
+				<latitude>12.9233369648617</latitude>
+				<altitude>0</altitude>
+				<heading>4.590828529997848e-009</heading>
+				<tilt>0</tilt>
+				<range>1029.642299690665</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.67183771251037,12.9233369648617,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Go Gas</name>
+			<description>Go Gas Auto LPG Pump - Petrol Pump
+45A, Service Rd
+Microlayout, Hongasandra
+Bengaluru, Karnataka 560068</description>
+			<LookAt>
+				<longitude>77.6348787</longitude>
+				<latitude>12.8964518</latitude>
+				<altitude>0</altitude>
+				<heading>1.311978806103701e-014</heading>
+				<tilt>0</tilt>
+				<range>999.9999999998718</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.6348787,12.8964518,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Super Gas</name>
+			<description>Super Gas Auto LPG - Petrol Pump
+40/C, ITPB Main Rd
+KEB Colony, Industrial Area, Hoodi
+Bengaluru, Karnataka 560048</description>
+			<LookAt>
+				<longitude>77.71252159999997</longitude>
+				<latitude>12.9925449</latitude>
+				<altitude>0</altitude>
+				<heading>-1.192708005548819e-015</heading>
+				<tilt>0</tilt>
+				<range>999.9999999984159</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.71252159999999,12.9925449,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPCL LPG</name>
+			<description>Bharat Petroleum - Petrol Pump
+Kasturba Rd
+Shanthala Nagar, Ashok Nagar
+Bengaluru, Karnataka 560001</description>
+			<LookAt>
+				<longitude>77.5985717519341</longitude>
+				<latitude>12.97577022577394</latitude>
+				<altitude>0</altitude>
+				<heading>1.812408074823841e-009</heading>
+				<tilt>0</tilt>
+				<range>1015.066004978198</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.5985717519341,12.97577022577394,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Propel Indian Oil Petronas</name>
+			<description>Propel Auto LPG Station - Petrol Pump
+8,
+38/4, Sarjapur Main Rd
+Jakkasandra Extension, Koramangala
+Bengaluru, Karnataka 560034</description>
+			<LookAt>
+				<longitude>77.6406913224194</longitude>
+				<latitude>12.92376907557915</latitude>
+				<altitude>0</altitude>
+				<heading>2.178299085379403e-009</heading>
+				<tilt>0</tilt>
+				<range>1014.4235435139</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.6406913224194,12.92376907557915,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Super Gas</name>
+			<description>SUPERGAS Auto LPG station - PP Auto SUPERGAS - Petrol Pump
+84, WOC
+Mahaganapathi Nagar, 2nd Block, 3rd Stage, Rajaji Nagar
+Bengaluru, Karnataka 560079</description>
+			<LookAt>
+				<longitude>77.5494401</longitude>
+				<latitude>12.9867186</latitude>
+				<altitude>0</altitude>
+				<heading>-3.975693351829396e-015</heading>
+				<tilt>0</tilt>
+				<range>999.9999999994934</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.54944010000001,12.9867186,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aegis LPG</name>
+			<description>Aegis Auto Gas - Petrol Pump
+21/2, Bannerghatta Main Rd
+SR Krishnappa Garden, Hombegowda Nagar
+Bengaluru, Karnataka 560029</description>
+			<LookAt>
+				<longitude>77.60044623570899</longitude>
+				<latitude>12.93098886326486</latitude>
+				<altitude>0</altitude>
+				<heading>-2.279251878815731e-009</heading>
+				<tilt>0</tilt>
+				<range>1012.693244066144</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.60044623570899,12.93098886326486,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BVS LPG</name>
+			<description>BVS Auto LPG Station - Gas Agency
+124, Lalbagh Fort Rd
+Parvathipuram, Vishweshwarapura, Basavanagudi
+Bengaluru, Karnataka 560004</description>
+			<LookAt>
+				<longitude>77.5771544360601</longitude>
+				<latitude>12.95625962502399</latitude>
+				<altitude>0</altitude>
+				<heading>3.700825840563967e-010</heading>
+				<tilt>0</tilt>
+				<range>1004.942534779605</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.57715443606008,12.95625962502399,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aegis LPG</name>
+			<description>N L Filling Station Aegis Auto LPG - Petrol Pump
+Kengeri Main Rd
+Kottigepalya
+Bengaluru, Karnataka 560091</description>
+			<LookAt>
+				<longitude>77.51227192009745</longitude>
+				<latitude>12.98711024422516</latitude>
+				<altitude>0</altitude>
+				<heading>4.454645129924283e-011</heading>
+				<tilt>0</tilt>
+				<range>1003.082052284077</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.51227192009745,12.98711024422516,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aegis LPG</name>
+			<description>Aegis Autogas - Petrol Pump
+Reliance TimeOut Corner
+Wilson Garden, Hosur Main Road
+Arekempanahalli, Hombegowda Nagar
+Bengaluru, Karnataka 560027</description>
+			<LookAt>
+				<longitude>77.59474849324221</longitude>
+				<latitude>12.94617402810483</latitude>
+				<altitude>0</altitude>
+				<heading>1.202027428334842e-009</heading>
+				<tilt>0</tilt>
+				<range>1011.006914129317</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.59474849324221,12.94617402810483,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Go Gas</name>
+			<description>Go Gas Auto Lpg Bunk, Dr.rajkumar Road, Rajajinagar - Petrol Pump
+1202K, Dr Rajkumar Rd
+E block, 2nd Stage, Rajaji Nagar
+Bengaluru, Karnataka 560010</description>
+			<LookAt>
+				<longitude>77.55347513129188</longitude>
+				<latitude>13.00288793351449</latitude>
+				<altitude>0</altitude>
+				<heading>2.423503153408163e-011</heading>
+				<tilt>0</tilt>
+				<range>1001.092210750927</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.55347513129188,13.00288793351449,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Advaita Auto LPG</name>
+			<description>Advaita Auto LPG - Petrol Pump
+778, 9th Main Rd
+4th Block, Jayanagar
+Bengaluru, Karnataka 560082</description>
+			<LookAt>
+				<longitude>77.58387198663638</longitude>
+				<latitude>12.92528103412435</latitude>
+				<altitude>0</altitude>
+				<heading>9.298749180593774e-012</heading>
+				<tilt>0</tilt>
+				<range>1000.678239330274</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.58387198663638,12.92528103412435,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Super Gas</name>
+			<description>SUPERGAS Auto LPG Station - Petrol Pump
+Site No-1,2&amp; 3, 24th Main
+6th Phase
+5th Phase, Annaiah Reddy Layout, JP Nagar
+Bengaluru, Karnataka 560078</description>
+			<LookAt>
+				<longitude>77.58567991514929</longitude>
+				<latitude>12.90135262067925</latitude>
+				<altitude>0</altitude>
+				<heading>6.096194204829238e-009</heading>
+				<tilt>0</tilt>
+				<range>1026.566744517673</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.58567991514929,12.90135262067925,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Super Gas</name>
+			<description>SUPERGAS Auto LPG Station - Vijayshree Auto Gas - Petrol Pump
+473-474, Thimmaiah Rd
+3 Stage, Block 2, Mahaganapathi Nagar, Rajaji Nagar
+Bengaluru, Karnataka 560010</description>
+			<LookAt>
+				<longitude>77.5425421012657</longitude>
+				<latitude>13.01778620765271</latitude>
+				<altitude>0</altitude>
+				<heading>7.312544466033382e-010</heading>
+				<tilt>0</tilt>
+				<range>1009.463975205733</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.5425421012657,13.01778620765271,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aegis LPG</name>
+			<description>Sri Devi Prasad Auto Gas - Petrol Pump
+Basavanapura Rd
+Basavanapura, Krishnarajapura
+Bengaluru, Karnataka 560049</description>
+			<LookAt>
+				<longitude>77.70981908233482</longitude>
+				<latitude>13.01364250823225</latitude>
+				<altitude>0</altitude>
+				<heading>-9.895981811598937e-010</heading>
+				<tilt>0</tilt>
+				<range>1010.685557137388</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.70981908233482,13.01364250823225,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL LPG</name>
+			<description>HP Petrol Pump Favourite Auto Service - Petrol Pump
+Near ST John&apos;s Hospital, Hosur Road
+Koramangala PO
+Koramangala Industrial Layout, Koramangala
+Bengaluru, Karnataka 560034</description>
+			<LookAt>
+				<longitude>77.61506888276247</longitude>
+				<latitude>12.93006781669258</latitude>
+				<altitude>0</altitude>
+				<heading>-3.354109599044276e-010</heading>
+				<tilt>0</tilt>
+				<range>1011.468509721316</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.61506888276247,12.93006781669258,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Super Gas</name>
+			<description>SUPERGAS Auto LPG Station - Petrol Pump
+67/1, BLOCK – 2
+RAJAJI NAGAR
+Yeshwanthpur Industrial Suburb, Mahalakshmipuram
+YESHWSANTHPUR, Karnataka 560022</description>
+			<LookAt>
+				<longitude>77.54754234358671</longitude>
+				<latitude>13.0171139794924</latitude>
+				<altitude>0</altitude>
+				<heading>1.8268581298804e-009</heading>
+				<tilt>0</tilt>
+				<range>1012.985555710611</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.54754234358671,13.01711397949241,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Essay LPG</name>
+			<description>Auto LPG - Petrol Pump
+Rajkumar Layout, Esther Enclave Layout
+Bengaluru, Karnataka 560016
+
+Sources from HPCL as per Image</description>
+			<LookAt>
+				<longitude>77.66893955389745</longitude>
+				<latitude>13.03090350945176</latitude>
+				<altitude>0</altitude>
+				<heading>-5.038699530176138e-009</heading>
+				<tilt>0</tilt>
+				<range>1092.137882204857</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.66893955389745,13.03090350945176,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Essay LPG</name>
+			<description>Essay Petroleum Lpg Auto Gas Station - Fuel Supplier
+96, Ring Rd
+Phase 3, Peenya
+Bengaluru, Karnataka 560058</description>
+			<LookAt>
+				<longitude>77.52221245868924</longitude>
+				<latitude>13.02318264210545</latitude>
+				<altitude>0</altitude>
+				<heading>7.968625310032323e-010</heading>
+				<tilt>0</tilt>
+				<range>1018.925816601722</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.52221245868925,13.02318264210545,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HPCL LPG</name>
+			<description>HP Petrol Pump - Petrol Pump
+No 8, 3rd Block, HBR Layout, 80 Feet Main Road
+3rd Block, HBR Layout
+Bengaluru, Karnataka 560043</description>
+			<LookAt>
+				<longitude>77.63035173232957</longitude>
+				<latitude>13.02567793258585</latitude>
+				<altitude>0</altitude>
+				<heading>3.725487066425363e-010</heading>
+				<tilt>0</tilt>
+				<range>1007.168661450785</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.63035173232957,13.02567793258585,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Go Gas LPG</name>
+			<description>Go Gas Auto LPG Station - Alternative Fuel Station
+8/1, Bannerghatta Main Rd
+Bhavani Nagar, Suddagunte Palya
+Bengaluru, Karnataka 560029</description>
+			<LookAt>
+				<longitude>77.60060340000001</longitude>
+				<latitude>12.9268272</latitude>
+				<altitude>0</altitude>
+				<heading>8.348956038841732e-015</heading>
+				<tilt>0</tilt>
+				<range>1000.00000000004</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.60060340000001,12.9268272,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Advaita LPG</name>
+			<description>Puncher Shop - Petrol Pump
+ADVAITA AUTO LPG
+32nd E Cross Rd
+4th T Block East, Jayanagar
+Bengaluru, Karnataka 560041</description>
+			<LookAt>
+				<longitude>77.58978369406403</longitude>
+				<latitude>12.92719138343386</latitude>
+				<altitude>0</altitude>
+				<heading>-1.34895633239973e-009</heading>
+				<tilt>0</tilt>
+				<range>1014.848479730516</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.58978369406401,12.92719138343386,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KR Fuels LPG</name>
+			<description>KR Fuels Auto LPG - Petrol Pump
+Service Road
+Sanasandiram
+Hosur, Tamil Nadu 635109</description>
+			<LookAt>
+				<longitude>77.84109991020496</longitude>
+				<latitude>12.72888164436517</latitude>
+				<altitude>0</altitude>
+				<heading>4.596576189876588e-009</heading>
+				<tilt>0</tilt>
+				<range>1045.577940784903</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.84109991020497,12.72888164436517,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Propel Indian Oil Petronas</name>
+			<description>Propel Auto LPG Station - Petrol Pump
+Dommasandra
+Thigala Chowdadenahalli, Karnataka 560087</description>
+			<LookAt>
+				<longitude>77.74511390606763</longitude>
+				<latitude>12.88605261147293</latitude>
+				<altitude>0</altitude>
+				<heading>2.878401986724483e-010</heading>
+				<tilt>0</tilt>
+				<range>1002.524876917388</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.74511390606763,12.88605261147293,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IOCL LPG</name>
+			<description>Auto Gas - Petrol Pump
+2nd Stage, Peenya Industrial Area Phase IV, Peenya
+Bengaluru, Karnataka 560058</description>
+			<LookAt>
+				<longitude>77.50612152426986</longitude>
+				<latitude>13.0099498279464</latitude>
+				<altitude>0</altitude>
+				<heading>4.321415670011128e-010</heading>
+				<tilt>0</tilt>
+				<range>1052.200795874336</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>77.50612152426984,13.0099498279464,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

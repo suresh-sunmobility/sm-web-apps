@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Shell</name>
+    <Style id="icon-1739-FFEA00-normal">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1739-FFEA00-highlight">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1739-FFEA00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1739-FFEA00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1739-FFEA00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Shell</name>
+      <description><![CDATA[Shell Petrol Pump - Petrol Pump<br>Kengeri Flyover<br>Stage I, Kengeri Satellite Town<br>Stage I, Kengeri Satellite Town<br>Bengaluru, Karnataka 560060]]></description>
+      <styleUrl>#icon-1739-FFEA00</styleUrl>
+      <Point>
+        <coordinates>
+          77.481745,12.915609,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shell</name>
+      <description><![CDATA[Shell - Petrol Pump<br>Khata No.423, Survery No.17, Nagasandra Post<br>Near 8th Mile, Tumkur Main Road<br>Nagasandra<br>Bengaluru, Karnataka 560073]]></description>
+      <styleUrl>#icon-1739-FFEA00</styleUrl>
+      <Point>
+        <coordinates>
+          77.502267,13.046516,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shell</name>
+      <description><![CDATA[Shell Petrol Bunk - Petrol Pump<br>Bommasandra Industrial Area<br>Bommasandra, Karnataka 560099]]></description>
+      <styleUrl>#icon-1739-FFEA00</styleUrl>
+      <Point>
+        <coordinates>
+          77.681287,12.817901,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shell</name>
+      <description><![CDATA[Shell Petrol Pump - Petrol Pump<br>Krishna Reddy Layout, Amarjyoti Layout, Domlur<br>Bengaluru, Karnataka 560071]]></description>
+      <styleUrl>#icon-1739-FFEA00</styleUrl>
+      <Point>
+        <coordinates>
+          77.640471,12.953119,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shell</name>
+      <description><![CDATA[Shell Petrol Pump - Petrol Pump<br>31/1, Kanakapura Road<br>Vajarahalli Village, Uttarahalli Hobli<br>Vakil Garden City<br>Bengaluru, Karnataka 560062]]></description>
+      <styleUrl>#icon-1739-FFEA00</styleUrl>
+      <Point>
+        <coordinates>
+          77.480084,12.985882,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shell</name>
+      <description><![CDATA[Shell Petrol Pump - Petrol Pump<br>Doddanakundi Industrial Estate, Brookfield Road, Vill Hoodi<br>Ashraya Layout, Garudachar Palya, Mahadevapura<br>Bengaluru, Karnataka 560048]]></description>
+      <styleUrl>#icon-1739-FFEA00</styleUrl>
+      <Point>
+        <coordinates>
+          77.708024,12.982613,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shell</name>
+      <description><![CDATA[Shell Fuel Station - Petrol Pump<br>Vignananagar Rd, Vibhutipura<br>Basavanagara<br>Adarsh Vista, Doddanekkundi<br>Bengaluru, Karnataka 560037]]></description>
+      <styleUrl>#icon-1739-FFEA00</styleUrl>
+      <Point>
+        <coordinates>
+          77.682024,12.971236,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shell</name>
+      <description><![CDATA[Shell Petrol Pump - Petrol Pump<br>No 66, Varthur Road<br>Siddapura, Whitefield<br>Palm Meadows, Siddapura, Whitefield<br>Bengaluru, Karnataka 560066]]></description>
+      <styleUrl>#icon-1739-FFEA00</styleUrl>
+      <Point>
+        <coordinates>
+          77.731392,12.956421,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shell</name>
+      <description><![CDATA[Shell Petrol Pump - Petrol Pump<br>No. 145/2, Benniganahalli, Old Madras Road<br>Rajana Colony<br>Bengaluru, Karnataka 560093]]></description>
+      <styleUrl>#icon-1739-FFEA00</styleUrl>
+      <Point>
+        <coordinates>
+          77.659592,12.991868,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shell</name>
+      <description><![CDATA[Shell Petrol Pump - Petrol Pump<br>204, B Narayanapura, Mahadevapura Road, Whitefield<br>Singayyanapalya, Mahadevapura<br>Bengaluru, Karnataka 560016]]></description>
+      <styleUrl>#icon-1739-FFEA00</styleUrl>
+      <Point>
+        <coordinates>
+          77.689196,12.998223,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shell</name>
+      <description><![CDATA[Shell Petrol Pump - Petrol Pump<br>80/2, Outer Ring Road<br>Opposite Genpact Office<br>Bellandur<br>Bengaluru, Karnataka 560037]]></description>
+      <styleUrl>#icon-1739-FFEA00</styleUrl>
+      <Point>
+        <coordinates>
+          77.671359,12.923224,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shell</name>
+      <description><![CDATA[Shell Petrol Pump - Petrol Pump<br>Hennur Main Road<br>St Thomas Town, HBR Layout<br>RK Hegde Nagar, 1st Stage, HBR Layout<br>Bengaluru, Karnataka 560084]]></description>
+      <styleUrl>#icon-1739-FFEA00</styleUrl>
+      <Point>
+        <coordinates>
+          77.628088,13.014933,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shell</name>
+      <description><![CDATA[Shell Petrol Pump - Petrol Pump<br>Srvyno25/1, Varthur Hobli, Junnasandra, Owners Court Layout, Eastwood Twp<br>Kasavanahalli<br>Junnasandra, Owners Court Layout, Eastwood Twp, Harlur<br>Bengaluru, Karnataka 560035]]></description>
+      <styleUrl>#icon-1739-FFEA00</styleUrl>
+      <Point>
+        <coordinates>
+          77.675167,12.899291,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shell</name>
+      <description><![CDATA[Shell Petrol Pump - Petrol Pump<br>22, Bellary Road<br>Lakshmayya Layout, Vishveshvaraiah Nagar, Ganga Nagar<br>Dena Bank Colony, Ganga Nagar<br>Bengaluru, Karnataka 560024]]></description>
+      <styleUrl>#icon-1739-FFEA00</styleUrl>
+      <Point>
+        <coordinates>
+          77.584297,13.021142,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shell</name>
+      <description><![CDATA[Shell Petrol Station - Petrol Pump<br>29, Vittal Mallaya Road, Next to UB City<br>KG Halli, D' Souza Layout, Ashok Nagar<br>Bengaluru, Karnataka 560001]]></description>
+      <styleUrl>#icon-1739-FFEA00</styleUrl>
+      <Point>
+        <coordinates>
+          77.597051,12.971396,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shell</name>
+      <description><![CDATA[Shell Petrol Pump - Petrol Pump<br>Mysore Road<br>Guddadahalli<br>Old Guddadahalli, Guddadahalli<br>Bengaluru, Karnataka 560026]]></description>
+      <styleUrl>#icon-1739-FFEA00</styleUrl>
+      <Point>
+        <coordinates>
+          77.551887,12.957592,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shell</name>
+      <description><![CDATA[Shell Fuel Station - Petrol Pump<br>SadashivaNagar, Sankey Tank Road<br>Lower Palace Orchards, Guttahalli<br>Bengaluru, Karnataka 560080]]></description>
+      <styleUrl>#icon-1739-FFEA00</styleUrl>
+      <Point>
+        <coordinates>
+          77.58077,13.004872,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shell</name>
+      <description><![CDATA[Shell Petrol Pump - Petrol Pump<br>Garvebhavi Palya,Hosur Main Road<br>Begur Hobli<br>Bandepalya, Garvebhavi Palya<br>Bengaluru, Karnataka 560068]]></description>
+      <styleUrl>#icon-1739-FFEA00</styleUrl>
+      <Point>
+        <coordinates>
+          77.633414,12.900364,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shell</name>
+      <description><![CDATA[Shell Petrol Pump - Petrol Pump<br>1, Bull Temple Road, Between Uma Theatre and More Hypermarket<br>Mahantara Lay Out, Kempegowda Nagar<br>Mahantara Lay Out, Kempegowda Nagar<br>Bengaluru, Karnataka 560019]]></description>
+      <styleUrl>#icon-1739-FFEA00</styleUrl>
+      <Point>
+        <coordinates>
+          77.567275,12.953529,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shell</name>
+      <description><![CDATA[Shell - Petrol Pump<br>Sai Baba Ashram Road, Hoskote, Seeghalli Village<br>Krishnarajapura<br>Bengaluru, Karnataka 560067]]></description>
+      <styleUrl>#icon-1739-FFEA00</styleUrl>
+      <Point>
+        <coordinates>
+          77.761849,13.017608,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shell</name>
+      <description><![CDATA[Shell Petrol Pump - Petrol Pump<br>Mullur<br>Bengaluru, Karnataka 560035]]></description>
+      <styleUrl>#icon-1739-FFEA00</styleUrl>
+      <Point>
+        <coordinates>
+          77.722953,12.895461,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shell</name>
+      <description><![CDATA[Shell Petrol Pump - Petrol Pump<br>S End Rd<br>Basavanagudi<br>Bengaluru, Karnataka 560004]]></description>
+      <styleUrl>#icon-1739-FFEA00</styleUrl>
+      <Point>
+        <coordinates>
+          77.576815,12.937037,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shell</name>
+      <description><![CDATA[Shell Petrol Pump - Petrol Pump<br>777, Outer Ring Road<br>Jeewan Sathi Colony, JP Nagar Phase 6, JP Nagar<br>JP Nagar Phase 6, JP Nagar<br>Bengaluru, Karnataka 560078]]></description>
+      <styleUrl>#icon-1739-FFEA00</styleUrl>
+      <Point>
+        <coordinates>
+          77.579263,12.906511,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shell</name>
+      <description><![CDATA[Shell Petrol Pump - Petrol Pump<br>B-2, Hosur Main Road<br>Mavalli<br>Bengaluru, Karnataka 560027]]></description>
+      <styleUrl>#icon-1739-FFEA00</styleUrl>
+      <Point>
+        <coordinates>
+          77.592859,12.949581,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shell</name>
+      <description><![CDATA[Shell Petrol Pump - Petrol Pump<br>Yelahanka Hobli<br>Bellary Road<br>Jakkuru Layout, Byatarayanapura<br>Bengaluru, Karnataka 560092]]></description>
+      <styleUrl>#icon-1739-FFEA00</styleUrl>
+      <Point>
+        <coordinates>
+          77.593222,13.071751,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shell</name>
+      <description><![CDATA[Shell Petrol Pump - Petrol Pump<br>36, Tumkur Road<br>Yeshwanthpur Industrial Area, Phase 1, Yeshwanthpur<br>Yeshwanthpur Industrial Area, Phase 1, Yeshwanthpur<br>Bengaluru, Karnataka 560022]]></description>
+      <styleUrl>#icon-1739-FFEA00</styleUrl>
+      <Point>
+        <coordinates>
+          77.547433,13.025216,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shell</name>
+      <description><![CDATA[Shell Petrol Pump - Petrol Pump<br>Opp BHEL, Mysore Road<br>Ranganathan Colony, Deepanjali Nagar<br>Patel Puttanna Industrial Estate, Nayanda Halli<br>Bengaluru, Karnataka 560039]]></description>
+      <styleUrl>#icon-1739-FFEA00</styleUrl>
+      <Point>
+        <coordinates>
+          77.532752,12.94792,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shell</name>
+      <description><![CDATA[Shell Petrol Pump Thanisandra - Petrol Pump<br>5, Thanisandra Main Road<br>Ashwath Nagar<br>Manayata Tech Park, Sinthan Nagar<br>Bengaluru, Karnataka 560077]]></description>
+      <styleUrl>#icon-1739-FFEA00</styleUrl>
+      <Point>
+        <coordinates>
+          77.630827,13.051603,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shell</name>
+      <description><![CDATA[Shell Petrol Pump - Petrol Pump<br>31/1, Kanakapura Road<br>Vajarahalli Village, Uttarahalli Hobli<br>Vakil Garden City<br>Bengaluru, Karnataka 560062]]></description>
+      <styleUrl>#icon-1739-FFEA00</styleUrl>
+      <Point>
+        <coordinates>
+          77.531168,12.86283,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
